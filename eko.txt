@@ -1,0 +1,795 @@
+
+Tatqiqot uchun ishlatiladigan malumotlar turiga qarab nechi hil boladi
+====
+#3 hil
+====
+5 hil
+====
+2 hil
+====
+4 hil
+
+
+
++++++
+
+
+
+Korrelyatsiya tushunchasi nima
+====
+Xatoliklar va boshqa inobatga olinmagan o’zgaruvchilar orasidagi bog’liqlikni ko’rsatadi.
+====
+#Barcha tanlangan mustaqil va bog’liq o’zgaruvchilar orasidagi bog’liqlikni ko’rsatadi.
+====
+Regression analysis dagi xatoliklar haqida malumot beradi.
+====
+Beta larni qiymatini ko’rsatib beradi.
+
+
+
++++++
+
+
+
+Korrelyatsiya koeffitsienti interval holatida minimum nechidan maximum nechigacha o’lchanishi mumkin
+====
+(1;0) 
+
+====
+(0;1) 
+====
+(-2;2) 
+====
+#(-1;1) 
+
+
+
+
++++++
+
+
+
+Regressiya tahlili …… 
+====
+#Mashxur statistic tadqiqot usuli – bu bog’lik o’zgaruvchi y va mustaqil o’zgaruvchilar o’rtasidagi munosabatlarni tasdiqlash uchun foydali 
+====
+Ikkita o’zgaruvchi o’rtasida chiziqli bog’liqlikni ko’rsatuvchi tahlil 
+====
+Ikki va undan ko’p o’zgaruvchilar orasidagi chiziqli bog’liqlikni ko’rsatadi 
+====
+To’g’ri javob yo’q 
+
+
+
++++++
+
+
+
+Regressiya tahlilida F-test ning mantiqiy ro’li qanday…... 
+====
+Regressiya tahlilini boshqa regressiya tahlillari bilan ahamiyatligini 
+====
+R-square bilan bog’liqligini 
+====
+#Ishlatilayotgan modelning Y ning o’zgarishida tasir qiladigan o’zgaruvchilarning tasirini ko’rsatishdagi ahamiyatliligi 
+====
+Standard xatoliklar bilan bog’liqliligini 
+
+
+
++++++
+
+
+
+Regressiya tahlilida Standard xatoliklar nima haqida ma’lumot beradi 
+====
+#Koeffitsientlarning haqiqiy Koeffitsientlar bilan orasidagi miqdoriy farqi haqida ma’lumot beradi 
+====
+P qiymatlarning ehtimollik xatoliklari haqida ma’lumot beradi 
+====
+Ishonch intervallari haqida ma’lumot beradi 
+====
+To’g’ri javob yo’q 
+
+
+
++++++
+
+
+
+Ekonometriyada matematik statistikadan foydalanish zarurati nimada
+====
+#Iqtisodiy tizimlar korsatkichlari ortasidagi munosabatlar qatiy funktsional emas va har doim malum tasodifiy burilishlar boladi
+====
+Matematik statistika jarayonlarning ichki tuzilishini aniqroq ifodalashga imkon beradi, chunki ular real iqtisodiy korsatkichlarga tayanmaydi.
+====
+Matematik statistikani sodda va tushunish osonroq.
+====
+Iqtisodiy tizimlar korsatkichlari ortasidagi munosabatlarda hech qanday ogish yoq va bu munosabatlar funktsionaldir.
+
+
+
++++++
+
+Tartib shkalasi ……
+====
+Elementning harakteristikasini aniqlash uchun nom yoki yorliqdan foydalanadigan o’lchov shkalasi 
+====
+Ma’lumotlarni kategoriyaga ajratish shkalasi 
+====
+To’g’ri javob yo’q 
+====
+#Nominal bo’lmagan va ma’lumotlarni ba’zi bir mezonlar bo’yicha tartiblash yoki tartiblash imkonini beruvchi o’lchov shkalasi
+
+
+
++++++
+
+
+
+Homaki ma’lumot ……...
+====
+Ma’lumotlar jadval ko’rinishiga ega va tahlildan o’tkan 
+====
+#Hali qayta ishlanmagan ma’lumotlar (tahlil qilinmagan, tasniflanmagan, jadvalga kiritilmagan)
+====
+Elementlarning soni ma’lum va tahlil uchun tayyor 
+====
+Sifat ma’lumotlaridan tuzilgan 
+
+
+
++++++
+
+
+
+Agragat ma’lumot ……
+====
+Hali qayta ishlanmagan ma’lumotlar 
+====
+#Biror maqsadga xizmat qilish uchun allaqachon qayta ishlangan ma’lumotlar 
+====
+Elementlarning soni ma’lumot va tahlil uchun tayyor
+====
+To’g’ri javob yo’q 
+
+
+
++++++
+
+
+
+Kesma ma’lumotlar ……. 
+====
+Bir vaqtning o’zida turli hil bo’lmagan holatlar kesimida 
+====
+Hali qayta ishlanmagan ma’lumotlar kesimida 
+====
+To’g’ri javob yo’q 
+====
+#Bir vaqtning o’zida turli kesimda (tumanlar, viloyatlar) to’plangan 
+
+
+
++++++
+
+
+
+Tanlanma malumotlar soni qanchalik ko’p bosa bu shunchalik…..
+====
+#Berilyotgan statistic malumotlarning hatolik holatini kamaytiradi
+====
+Mustaqil o’zgaruvchilarning hatolik holatini ko’paytiradi
+====
+Mustaqil o’zgaruvchilarning regression tahlilidagi ro’lini kamaytiradi
+====
+Bog’liq o’zgaruvchini Mustaqil o’zgaruvchilar bilan bog’liqligini kamaytiradi.
+
+
+
++++++
+
+
+
+Berilgan statistic malumotning muhimlik darajasini aniqlash uchun qanday malumotdan foydalanamiz
+====
+Coefficient qiymatdan
+====
+Hatoliklar qiymatidan
+====
+Confidence interval qiymatidan
+====
+#P-value qiymatidan
+
+
+
++++++
+
+
+
+Birlamchi malumotlar qanday malumotlar
+====
+Internet tarmoqlaridan olingan malumotlar
+====
+Statistika Qomitasi tomonidan taqdim qilingan malumotlar
+====
+Xalqaro moliya tashkilotlari tomonidan taqdim qilingan malumotlar
+====
+#Tadqiqotchi tomonidan yigilgan malumotlar
+
+
+
++++++
+
+
+
+Qanday malumotlar ikkilamchi malumotga misol bola oladi
+====
+Internet tarmoqlaridan olingan malumotlar
+====
+Statistika Qomitasi tomonidan taqdim qilingan malumotlar
+====
+#Barcha javoblar togri
+====
+Xalqaro moliya tashkilotlari tomonidan taqdim qilingan malumotlar
+
+
+
++++++
+
+
+
+Birlamchi malumotlarning afzalligi nimada
+====
+#Ishonchliligi,  aniqligi,  betakrorligi va tadqiqot uchun moslashtirilgan shaklda toplanganida.
+====
+Malumotlarni toplash uchun kop vaqt sarflanishida
+====
+Malumotlarni toplash jarayoni ikkilamchi malumotlarga nisbatan kop resurs talab etishida
+====
+Ular oldin boshqa tadqiqotlar uchun foydalanganligida
+
+
+
++++++
+
+
+
+Vaqt qatorlari ……. 
+====
+Vaqt o’tishi bilan muntazam bo’lmagan holda bir obyekt to’grisidagi ma’lumotlar 
+====
+Vaqt bo’yicha kuzatuvlarni o’z ichiga olmaydigan ma’lumotlar 
+====
+#Vaqt o’tishi bilan muntazam ravishda bir obyekt to’g’risida kuzatuvlardan iborat ma’lumotlar 
+====
+To’g’ri javob yo’q 
+
+
+
++++++
+
+
+
+Panel ma’lumotlar ……. 
+====
+Vaqt o’tishi bilan muntazam bo’lmagan holda bir obyekt to’g’risidagi ma’lumotlar 
+====
+#Bir vaqtning o’zida kesma va vaqt qatorlaridan iborat ma’lumotlar 
+====
+Vaqt o’tishi bilan muntazam ravihda bir obyekt to’g’risida kuzatuvlardan iborat ma’lumotlar 
+====
+To’g’ri javob yo’q
+
+
+
++++++
+
+
+
+Korrelyasiga 0 ga tengligi nimadan dalolat beradi
+====
+Korsatkichlar ortasida kuchli chiziqli bogliqlik mavjud emasligidan
+====
+Korsatkichlar ortasida zaif chiziqli bogliqlik mavjud emasligidan
+====
+Korsatkichlar ortasida ortacha chiziqli bogliqlik mavjud emasligidan
+====
+#Korsatkichlar ortasida mutlaqo chiziqli bogliqlik mavjud emasligidan
+
+
+
++++++
+
+
+
+Populyasiya (bosh to’plam) …… 
+====
+Ma’lum bir taqdqiqotga lozim bo’lmagan barcha elementlaring to’plami 
+====
+Kuzatuvlar asosida birinchi marta yig’ilayotgan ma’lumotlar to’plami 
+====
+#Ma’lum bir tadqiqotga lozim bo’lgan barcha elementlarning to’plami
+====
+Barcha elementlar to’plamidan parcha olingan ma’lumotlar to’plami 
+
+
+
++++++
+
+
+
+Kovariyasiya ……...
+====
+Ikkita o’zgaruvchi o’rtasida chiziqli bo’lmagan o’lchovi 
+====
+Ikkita yoki undan ortiq o’zgaruvchilar o’rtasida chiqizli bo’lmagan o’chovi 
+====
+#Ikkita o’zgaruvchi o’rtasida chiziqli bog’liqlik o’lchovi 
+====
+Musbat o’zgaruvchi o’rtasida chiqizsiz o’lchovi 
+
+
+
++++++
+
+
+
+Ekonomtrik tadqiqotlarning asosiy tadqiqot mexanizmi nima 
+====
+#Matematik statistika 
+====
+Chiziqli bo’lmagan dasturlash 
+====
+Katta sonlar qonuni 
+====
+Statistikaning umumiy nazariyasi 
+
+
+
++++++
+
+
+
+Ahamiyatlilik test usullariga quyidagilar kiradi:
+====
+#P-qiymatli yondashuv va tanqidiy narxli yondashuv 
+====
+Statistik yondashuv, p-qiymatli yondashuv va tanqidiy qiymatli yondashuv 
+====
+Ishonch oralig’I va ahamiyatlilik testlari 
+====
+Statistik yondashuv, ishonch oralig’I va ahamiyatli yondashuv 
+
+
+
++++++
+
+
+
+Ekonometrika haqidagi quyidagi fikrlardan qaysi biri no’to’gri
+====
+Kassa daftari, schyot-faktura, ishonchnoma
+====
+Kassa kirim orderi, pul cheki
+====
+#Kassa chiqim orderi, tolov qaydnomasi
+====
+Tolov topshiriqnomasi, inkassa topshiriqnoma, tolov talabnomasi
+
+
+
++++++
+
+
+
+O’zgaruvchining o’rtacha qiymatidan chetga chiqish (burilish, tarqalish) o’lchovi:
+====
+#Variantlar va standart og’ish 
+====
+Kovaryans koeffitsienti 
+====
+Matematik kutish 
+====
+Moda
+
+
+
++++++
+
+
+
+Bir hil standart og’ishlarga ega bo’lgan to’plamlarni solishtirishda eng samarali bosita:
+====
+#O’zgaruvchanlik koeffitsienti 
+====
+Variantlar 
+====
+Ortachalar 
+====
+Moda 
+
+
+
++++++
+
+
+
+Ekonometrik tadqiqotlar birinchi navbatda qayerdan boshlandi
+====
+#O’zgaruvchilar o’rtasidagi munosabatlar nazariyasiga asoslangan modelni shakillantirishdan 
+====
+Tadqiqot ma’lumotlarinini tanlashdan 
+====
+Namuna olish xatolarini aniqlashdan 
+====
+Tasodifiy omillarni baholashdan 
+
+
+
++++++
+
+
+
+Qaysi indicator ikki qatorli regressiyadagi bog’lanish zichligini aniqlaydi
+====
+Umumiy dispersiya
+====
+#Korrelyatsiya koeffitsienti
+====
+Qoldiq dispersiyasi 
+====
+Regressiya koeffitsienti 
+
+
+
++++++
+
+
+
+Regressiya tenglamasidagi tasodifiy miqdor 
+====
+Namuna olish xatolarini tavsiflaydi 
+====
+Model shaklining to’g’ri tanlanishini tavsiflaydi 
+====
+O’lchov xatolarini tavsiflaydi 
+====
+#Regressiya tenglamasi asosida aniqlangan yakuniy belgining nazariy qiymatlarining haqiqiy qiymatdan chetge chisihini tavsiflaydi 
+
+
+
++++++
+
+
+
+Manfiy korrelyasiga mos keluvchi misolni tanlang
+====
+Koproq jismoniy mashqlar qilish kop kaloriya sarflanishiga sabab boladi
+====
+#Kop dars qoldirgan talabalar imtihonlardan past baho oladilar
+====
+Xavo harorati kotarilishi koproq muzqaymoq sotilishiga sabab boladi
+====
+Koproq darxlarning kesilishi koproq xavo ifloslanishiga sabab boladi
+
+
+
++++++
+
+
+
+Musbat korrelyasiga mos keluvchi misolni tanlang
+====
+#Xavo harorati kotarilishi dala xovlilar ijara narxini oshiradi
+====
+Kop dars qoldirgan talabalar imtihonlardan past baho oladilar
+====
+Kop sigaret chekish umrni qisqartiradi
+====
+Korsatkichlar ortasida ortacha chiziqli bogliqlik mavjud emasligidan
+
+
+
+
++++++
+
+
+
+Regressiya Tahlili bu
+====
+Hatoliklar oqibata yuzaga keladigan tahliliy hodisadir
+====
+#Tasodifiy bolgan ikkita yoki bir nechta mustaqil ozgaruvchilarning Y ga tasirini korsatuvchi analysis tahlilidir.
+====
+Statistik malumotlarga tayangan analysis
+====
+Togri Javob yoq
+
+
+
++++++
+
+
+
+Regressiyada Hatolik holatini nima haqida malumot beradi
+====
+Mustaqil ozgaruvchilarning hatolik coefficienti haqida malumot beradi
+====
+Bettalarning ozgarishi boyicha malumot beradi
+====
+Togri Javob yoq
+====
+#Bu berilyotgan pragnoz va haqiqiy holat ortasidagi farq haqida malumot beradi
+
+
+
++++++
+
+
+
+R-square ning manosi nima
+====
+Mustaqil ozgaruvchilarning hatolik coefficienti haqida malumot beradi
+====
+Hatoliklarning coefficienti haqida malumot beradi
+====
+#Bu bogliq ozgaruvchini ozgarishida mustaqil ozgaruvchilarning orni haqida malumot beradi
+====
+Togri Javob yoq
+
+
+
++++++
+
+
+
+Standard error nima haqida malumot beradi
+====
+Bettalarning ozgarish belgisi haqida malumot beradi
+====
+R-square ni qiymati haqida malumot beradi
+====
+#Bu berilyotgan pragnoz va real hayotda bolishi mumkin bolgan tutashuvlarning qiymati haqida malumot beradi
+====
+Togri Javob yoq
+
+
+
++++++
+
+
+
+Sifat ma’lumotlari ……… 
+====
+O’zgaruvchilar miqdorini ko’rsatadi 
+====
+Ma’lumotlarni guruhlarga ajratadi 
+====
+To’g’ri javob berilmagan 
+====
+#Narsa va hodisalar haqida raqamsiz ma’lumot 
+
+
+
++++++
+
+
+
+Miqdoriy ma’lumotlar……. 
+====
+Narsa va hodisalar haqida raqamsiz ma’lumot beradi 
+====
+#O’zgaruvchilar miqdorini ko’rsatadi va ular bilan matematik amallar o’tkazish mumkin. 
+====
+Ma’lumotlarni tayyor manbarlar orqali oladi 
+====
+Birinchi marotaba ma’lumotlar yig’ilayotgani uchun individual tarzda ma’lumot yig’iladi 
+
+
+
++++++
+
+
+
+Nominal o’lchamdagi ma’lumotlar …… 
+====
+Sanash orqali to’plangan ma’lumotlarni o’z ichiga oladi 
+====
+#Elementning harakteristikasini aniqlash uchun nom yoki yorliqdan foydalanadigan o’lchov shkalasi 
+====
+Sifat ma’lumotlarni o’z ichiga oladi 
+====
+To’g’ri javob yo’q 
+
+
+
++++++
+
+
+
+Regression analysis da R2 nimani ifodalaydi va uning ro’li nima
+====
+#Bog’liq o’zgaruvchini o’zgarishida mustaliq o’zgaruvchilarning ro’li haqida malumot beradi.
+====
+O’zgaruvchilar orasidagi bog’liqlikni ko’rsatadi.
+====
+Hatoliklar koeffitsientini ko’rsatib beradi 
+====
+Hatoliklar va mustaqil o’zgaruvchilar orasidagi bog’liqlikni ko’rsatadi 
+
+
+
++++++
+
+
+
+Vaqtli qatorlar malumot turida malumot turi bilan bog’liq qanday muammolar bo’ladi
+====
+Heteroskedasticity 
+====
+Multicollinearity 
+====
+#Stationery and autocorrelation
+====
+Multicollinearity and Endogeneity
+
+
+
++++++
+
+
+Quyidagi berilgan ma’lumotlarga asoslanib sababiy farazga asoslangan xulosa berilgan javobni toping
+====
+Ushbu mahsulotdan foydalanish laboratoriya hayvonlarida saratonga olib keladi. Shuning uchun siz ushbu mahsulotni ishlatishni toxtatishingiz kerak.
+====
+Ushbu mahsulotdan foydalanish laboratoriya hayvonlarida saratonga olib keladi. Shuning uchun siz ushbu mahsulotni ishlatishni toxtatishingiz kerak.
+====
+Online hizlatlardan foydalanish odamlarni vaqtini va pulini tejaydi va oshani uchun odamlar yoppasiga online hizmatlarga ulanishni boshlashdi.
+====
+#Har safar qora kostyumimni kiyganimda, men odamlarga yoqaman. Shuning uchun, mening odamlarga yoqishimga qora kostyumim sababchi.
+
+
+
++++++
+
+
+
+Quyidagi berilgan ma’lumotlarga asoslanib analogy farazga asoslangan xulosa berilgan javobni toping
+====
+100 ta odamdan 85 tasi yangi ochilgan supermarket hizmatlari va mahsulotlar sifatidan mamnunligini bildirishdi va siz ham bu supermarket hizmarlaridan foydalanib ko’rishingiz kerak.
+====
+Har safar ishga erta kelib kech ketganim uchun, general manager mani lavozimimni ko’tarishga qaror qildi va ishga masulyatli bo’lishim mani kareramni o’sishiga olib kelyapti.
+====
+Online hizlatlardan foydalanish odamlarni vaqtini va pulini tejaydi va oshani uchun odamlar yoppasiga online hizmatlarga ulanishni boshlashdi.
+====
+#Ushbu mahsulotdan foydalanish laboratoriya hayvonlarida saratonga olib keladi. Shuning uchun siz ushbu mahsulotni ishlatishni toxtatishingiz kerak
+
+
+
++++++
+
+
+
+Quyidagi berilgan ma’lumotlarga asoslanib Statistic farazga asoslangan xulosa berilgan javobni toping
+====
+Har safar ishga erta kelib kech ketganim uchun, general manager mani lavozimimni ko’tarishga qaror qildi va ishga masulyatli bo’lishim mani kareramni o’sishiga olib kelyapti.
+====
+Har safar yangi moshina olganimda men odamlarga yoqaman. Shuning uchun men odamlarga yoqishimga sabab bu yangi moshina olishim.
+====
+#100 ta odamdan 85 tasi yangi ochilgan supermarket hizmatlari va mahsulotlar sifatidan mamnunligini bildirishdi va siz ham bu supermarket hizmarlaridan foydalanib ko’rishingiz kerak.
+====
+Yangi o’quv sistemasi studentlarini ko’proq o’z ustida ishlashga sabab bo’ldi va o’shani uchun butun mamlakat bo’ylab barcha o’quv dargohlari shu Sistema asosida yangi o’quv davrini boshlashadi.
+
+
+
++++++
+
+
+
+Quyidagilardan qaysi biri ekonometriya oldida turgan asosiy vazifalardan biri hisoblanadi
+====
+Iqtisodiy tizimning erkinlik darajalari sonini aniqlash 
+====
+#Ekonometrik modellarni qurish, aniqrog’I iqtisodiy modelning matematik tavsifi 
+====
+Iqtisodiy tizimni atrof-muhit ta’sirindan ishonchli himoya qilish 
+====
+Ekonometrik modellar va empiric modellar o’rtasidagi ziddiyatni bartaraf etish 
+
+
+
++++++
+
+
+
+Qachon o’zgaruvchilar orasidagi chiziqli bo’lmagan munosabatlar haqiqiy samara bermaydi
+====
+#X va Y o’zgaruvchilar o’rtasidagi farq juda cheklangan bo’lsa 
+====
+X va Y o’zgaruvchilar orasidagi farq kamroq cheklangan bo’lsa 
+====
+O’zgaruvchilarni o’lchashdagi xatolar minimallashtirilganda 
+====
+O’zgaruvchilarni tanlashdagi xatolar minimallashtirilganda 
+
+
+
++++++
+
+
+
+Chiziqli regressiya parametrlarini baholash quyidagilarga asoslanadi
+====
+Korrelayatsiya maydoniga asoslangan 
+====
+Eng kichik kvadratchalar usuli 
+====
+#Quyidagilarning hammasiga 
+====
+Natijadagi o’zgarishlarning omil o’zgarishiga nisbati 
+
+
+
++++++
+
+
+
+Ekonometrik modellarda o’zgaruvchilarning kuzatilgan qiymatlari ularning chiqizli modelidagi omillar sonidan necha marta ko’p bo’lishi kerak
+====
+#Kamida 7 marta 
+
+====
+Kamida 2 marta 
+====
+Kamida 5 marta 
+====
+Kamida 4 marta 
+
+
+
++++++
+
+
+
+Mustaqil o’zgaruvchining analogi nima deb ataladi
+====
+#Ekzogen o’zgaruvchilar 
+====
+Kechiktiruvchi o’zgaruvchilar 
+====
+Natija o’zgaruvchilari 
+====
+Endogen 
+
+
+
++++++
+
+
+
+Bog’liq o’zgaruvchining analogi nima deb ataladi
+====
+Natija o’zgaruvchisi 
+====
+Taxallusni o’zgaruvchi 
+====
+#Endogen o’zgaruvchi 
+====
+Ekzogen 
+
+
+
++++++
+
+
+
+Qaysi belgi omil belgisi o’zgarishi 1% yakuniy belgining o’rtacha o’zgarishini aniqlaydi
+====
+#Elastiklik koeffitsienti 
+====
+Aniqlash koeffitsienti 
+====
+Korrelyatsiya koeffitsienti 
+====
+Omil koeffitsienti 

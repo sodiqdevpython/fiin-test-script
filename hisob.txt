@@ -1,0 +1,465 @@
+
+Quyidagilardan qaysi biri korxona ustidan nazorat bor ekanligini aniqlaydi
+====
+#Korxonaning moliya – xojalik siyosatini boshqarish.
+====
+Korxonaning 10% oddiy aksiyalariga egalik qilish.
+====
+Korxonaning 65% imtiyozli aksiyalariga egalik qilish
+====
+Korxonaning obligatsiyalariga egalik qilish.
+
++++++
+
+Quyidagilardan qaysi biri uyushgan korxonaga kiritilgan investisiya hisoblanadi:
+====
+Agar investitsiya investorga nazorat huquqini bersa
+====
+Agar investitsiya investorga hech qanday huquq bermasa
+====
+Agar investitsiya investorga ovoz berish huquqin bersa
+====
+#Agar investitsiya investorga ahamiyatli tasir qilish imkonini bersa
+
++++++
+
+ABC MCHJ 20X4-yil 01-yanvarda $100 000 qiymatdagi 5% li obligatsiya chiqardi. Obligatsiyani chiqarish bilan bogliq xarajatlar $3 000 ni tashkil etdi. Obligatsiyaning balansga kirim qilinadigan qiymatini aniqlang. 
+====
+$100 000
+====
+#$97 000
+====
+$103 000
+====
+$105 000
+
++++++
+
+Quyidagilardan qaysi biri GOODWILLga nisbatdan togri
+====
+#Eskirish hisoblanmaydi.
+====
+Xarajatlar tarkibida aks ettiriladi
+====
+Eskirish xisoblanadi
+====
+Moliyaviy hisobotlarda aks ettirilmaydi
+
++++++
+
+Quyidagilardan qaysi biri BADWILLga nisbatdan togri
+====
+BADWILL kelajakdagi xarajatlar bilan bogliq boladi.
+====
+Uzoq muddatli aktivlar tarkibida aks ettiriladi.
+====
+#Foyda yoki zararlar togrisidagi hisobotda aks ettiriladi. 
+====
+Hisobotlarda aks ettirilmaydi.
+
++++++
+SIFAT MCHJ uch xil turdagi mahsulot ishlab chiqaradi. Quyida yil oxirida mavjud bolgan malumotlar keltirilgan: V mahsulot tannarxi 120 000 som, sof sotish qiymati (haqqoniy qiymat-sotish xarajatlari) 115 000 som, miqdori 150 birlik; M mahsulot tannarxi 85 000 som, sof sotish qiymati (haqqoniy qiymat-sotish xarajatlari) 105 000 som, miqdori 280 birlik; Q mahsulot tannarxi 175 000 som, sof sotish qiymati (haqqoniy qiymat-sotish xarajatlari) 165 000 som, miqdori 90 birlik. Tovar – moddiy zaxiralarning yakuniy qoldiq qiymatini hisoblang:
+====
+#55 900 000 som 
+====
+63 150 000 som
+====
+61 500 000 som
+====
+57 550 000 som
+
++++++
+
+2-sonli MHXS (IAS) ga asosan tayyor mahsulotlar tannarxiga kiruvchi xarajatlarni aniqlang:
+====
+Ishlab chiqarish xodimining ish haqi, sotib olish jarayonidagi transport xarajatlari, sotish jarayonidagi transport xarajatlari, xom – ashyo.
+====
+Xom – ashyo, mamuriy xarajatlar, tayyor mahsulotlarni saqlash xarajatlari, mashina va asbob – uskunalar amortizatsiyasi.
+====
+#Mashina va asbob – uskunalar amortizatsiyasi, sotib olish jarayonidagi transport xarajatlari, xom – ashyo, ishlab chiqarish xodimining ish haqi. 
+====
+Sotish jarayonidagi transport xarajatlari, xom – ashyo, ishlab chiqarish xodimining ish haqi, mashina va asbob – uskunalar amortizatsiyasi.
+
++++++
+
+Quyida keltirilgan iboralardan 2-sonli MHXS (IAS)ga asosan togrisini belgilang:
+====
+Tovar-moddiy zaxiralar tannarxi yoki sof sotish qiymatidan qaysi biri koproq bolsa, osha boyicha baholanishi lozim.
+====
+Tovar-moddiy zaxiralar tannarxi yoki sof sotish qiymatidan qaysi biri kamroq bolishidan qatiy nazar, tannarx boyicha baholanishi lozim.
+====
+#Tovar-moddiy zaxiralar tannarxi yoki sof sotish qiymatidan qaysi biri kamroq bolsa, osha boyicha baholanishi lozim. 
+====
+Tovar-moddiy zaxiralar tannarxi yoki sof sotish qiymatidan qaysi biri koproq bolishidan qatiy nazar, sof sotish qiymati boyicha baholanishi lozim.
+
++++++
+
+ABC kompaniyasi QQS tolovchisi hisoblanadi. May oyi davomida ABC kompaniyasi DEF kompaniyasiga odatdagi sotish narxi $800 (QQSni oz ichiga olmagan) bolgan mahsulotlarni kreditga sotdi. DEF kompaniyasi kop miqdorda mahsulot sotib olgani uchun ushbu kompaniyaga odatdagi sotish narxiga nisbatan 6% lik chegirma berildi. Agar QQS stavkasi 12% bolsa, ABC kompaniyasi DEF kompaniyasiga jami qancha qiymatlik schyot-faktura taqdim etadi
+====
+$892.24
+====
+$752
+====
+#$842.24 
+====
+$896
+
++++++
+
+Quyida keltirilgan iboralardan qaysi biri notogri
+====
+#Meyoridan tashqari sarflangan hom-ashyo, mehnat va boshqa ishlab chiqarish xarajatlari summasi tayyor mahsulot tannarxiga qoshiladi. 
+====
+Saqlash xarajatlari, agar bu xarajatlar ishlab chiqarish jarayonining keyingi bosqichlari uchun talab etilmasa, davr xarajatlari sifatida tan olinadi.
+====
+Sotish xarajatlari tayyor mahsulot tannarxiga qoshilmaydi.
+====
+Tovar-moddiy zaxiralarni xozirgi paytdagi joylashishi va holatiga keltirish bilan bogliq bolmagan mamuriy ustama xarajatlari davr xarajatlari sifatida tan olinadi.  
+
++++++
+
+Biznes birlashuvi natijasida:
+====
+#Xaridor sotib olingan kompaniya ustidan nazoratni qolga kiritadi.
+====
+Sotib olingan kompaniya sotib oluvchi ustidan nazoratni qolga kiritadi.
+====
+Xaridor sotib olingan kompaniyaning sherigi boladi.
+====
+Togri javob yoq.
+
++++++
+
+Quyidagilardan tiklash qiymatining tarifini aniqlang: 
+====
+#Tiklash qiymati – aktivning sotish xarajatlari chegirilgandagi haqqoniy qiymati bilan uning foydalanishdagi qiymati ortasidagi yuqorirogi hisoblanadi. 
+====
+Tiklash qiymati – bu baholash sanasida bozor ishtirokchilari ortasidagi tartibli operatsiyada aktivni sotishda olinishi mumkin bolgan yoki majburiyatni otkazishda tolanishi mumkin bolgan narxdir. 
+====
+Aktivni hisobdan chiqarilishiga bevosita tegishli bolgan qoshimcha xarajatlar tiklash qiymati hisoblanadi.
+====
+Tiklash qiymati – aktivdan uzluksiz foydalanishdan va uning foydalanish muddati oxirida uning hisobdan chiqarilishidan yuzaga kelishi kutilgan va baholangan kelgusi pul oqimlarining keltirilgan (diskontlangan) qiymatidir.
+
++++++
+
+Uzoq muddatli aktivni sotish uchun moljallangan sifatida tasniflash uchun, aktiv quyidagi qaysi talablarga javob berishi kerak
+====
+Ozining joriy holatida bevosita sotuv uchun mavjud bolishi.
+====
+Uning sotuvi yuqori ehtimolli bolishi.
+====
+Sotuv tasniflash sanasidan boshlab bir yil ichida amalga oshirilishi ehtimoli yuqori bolsa.
+====
+#Barcha javoblar togri.
+
++++++
+
+Kompaniya mamuriy binoni sotish boyicha qaror qabul qildi. Agar quyidagilardan qaysi biri malum bolsa, bino sotish uchun moljallangan uzoq muddatli aktiv sifatida tasniflanishi mumkinmi:
+====
+#Xaridor topilishi bilanoq bino darhol boshatilishi imkoni bolsa. 
+====
+Boshqaruv xodimlari uchun yangi binolar qurib bolingandan song, bino xaridorga otkazilsa.
+====
+Bino sotish qiymatini oshirish maqsadida kapital tamirdan otishi kutilayotgan bolsa.
+====
+Binoning kelgusi 12 oy ichida sotilishi ehtimoli past bolsa.
+
++++++
+
+Quyidagilardan qaysi biri sotish uchun moljallangan uzoq muddatli aktivning tarifi hisoblanmaydi:
+====
+Kelgusi 12 oy ichida sotilishi rejalashtirilgan uzoq muddatli aktiv.
+====
+Balans qiymati asosan sotuv operatsiyasi orqali qoplanadigan uzoq muddatli aktiv.
+====
+#Balans qiymati asosan uzluksiz foydalanish orqali qoplanadigan uzoq muddatli aktiv. 
+====
+Ozining joriy holatida bevosita sotish uchun mavjud bolgan uzoq muddatli aktiv.
+
++++++
+
+Quyidagilardan qaysi biri biznes birlashuviga togri kelmaydi
+====
+Boshqa korxonaning xususiy kapitalini sotib olish.
+====
+Boshqa korxonaning jami sof aktivlarini sotib olish.
+====
+Boshqa korxonaning sof aktivlarini qisman sotib olish.
+====
+#Likvidatsiya bolayotgan korxonaning aktivlarini sotib olish.
+
++++++
+
+Sotish uchun moljallangan sifatida tansiflangan uzoq muddatli aktiv qaysi qiymatda baholash lozim
+====
+Balans qiymati bilan taqsimlash xarajatlari chegirilgandagi haqqoniy qiymati ortasidagi kamrogida baholash lozim.
+====
+Sof sotish qiymatida baholash lozim.
+====
+Aktivning sotish xarajatlari chegirilgandagi haqqoniy qiymati bilan uning foydalanishdagi qiymati ortasidagi yuqorirogida baholash lozim.
+====
+#Balans qiymati bilan sotish xarajatlari chegirilgandagi haqqoniy qiymati ortasidagi kamrogida baholash lozim. 
+
++++++
+
+37-sonli MHXS (IAS) Baholangan majburiyatlar, shartli majburiyatlar va shartli aktivlarga asosan, quyida keltirilgan malumotlardan qaysi biri togri 1. Shartli aktiv mavjudligi izohlarda yoritilishi kerak, agar korxona tomonidan iqtisodiy naf olinishi ehtimoli yuqori deb baholansa. 2. Agar iqtisodiy nafning chiqib ketish ehtimoli yuqori deb baholansa, shartli majburiyat izohlarda yoritilishi kerak. 3. Agar iqtisodiy nafning chiqib ketish ehtimoli yuqori emas deb baholansa, shartli majburiyatni izohlarda yoritib berilishi talab etilmaydi. 4. Shartli aktiv va shartli majburiyatning sodir bolish ehtimoli 4% deb baholansa, izohlarda hech biri boyicha yoritib berilishlar talab etilmaydi.
+====
+#1 va 4
+====
+2 va 3
+====
+2,3 va 4
+====
+1,2 va 4
+
++++++
+
+SAHOVAT MCHJ korxonasining sobiq direktori noxaq ishdan chetlatilganligi sababli, korxonaga qarshi davo ishi ochildi. Korxonaning yuridik bolimi sobiq direktorning davosi muvaffaqiyatli yakunlanish ehtimoli past deb baholadi. Yuridik bolim quyidagi sodir bolishi mumkin bolgan majburiyatlarni baholadi: Yuridik xarajatlar (davo muvaffaqiyatli bolishi yoki bolmasligidan qatiy nazar) – $5 000. Agar sobiq direktorning davo arizasi muvaffaqiyatli yakunlansa kompensatsiya tolovi – $50 000. 37-sonli MHXS Baholangan majburiyatlar, shartli majburiyatlar va shartli aktivlarga asosan, yuqorida keltirilgan malumotlar SAHOVAT MCHJ korxonasining moliyaviy hisobotlarida qanday aks ettirilishi kerak:
+====
+Baholangan majburiyat – $55 000.
+====
+Qiymati $55 000 bolgan shartli majburiyat izohlarda yoritiladi.
+====
+Baholangan majburiyat – $50 000 va shartli majburiyat – $5 000.
+====
+#Baholangan majburiyat – $5 000 va shartli majburiyat – $50 000.
+
++++++
+
+37-sonli MHXS (IAS) Baholangan majburiyatlar, shartli majburiyatlar va shartli aktivlarga asosan quyidagi qaysi holatlarga nisbatdan rezerv yaratilmaydi
+====
+Belgilangan rejaga muvofiq kompaniyani kelajakda qayta qurish xarajatlari.
+====
+Ogirlik yuklaydigan shartnoma bilan bogliq xarajatlar.
+====
+#Ishlashni davom ettirayotgan xodimlarni qayta tayyorlash yoki boshqa joyga kochirish xarajatlari.
+====
+Ishlab chiqarish uskunalarini kelajakda demontaj qilish bilan bogliq xarajatlar.
+
++++++
+
+Kompaniya xaridorlaridan biri uni mol yetkazib berish shartnomasi shartlarini buzganligi uchun sudga berdi. Kompaniya yuristlari mijozning davosi muvaffaqiyatli bolishiga ishonishadi va davo boyicha iqtisodiy nafning chiqib ketishini quyidagicha baholaydilar: 10% ehtimollik bilan $40 000, 30% ehtimollik bilan - $30 000, 60% ehtimollik bilan - $25 000. 37-sonli MHXS (IAS) 37 Baholangan majburiyatlar, shartli majburiyatlar va shartli aktivlarga asosan ushbu holat boyicha baholangan majburiyatning balans qiymatini aniqlang:
+====
+$40 000
+====
+#$25 000 
+====
+$55 000
+====
+$30 000
+
++++++
+
+Quyidagilardan qaysi biri shartli aktivlarning moliyaviy hisobotlarda aks ettirilishi boyicha togri
+====
+Moliyaviy hisobotlarda aks ettirilmaydi, biroq sodir bolish ehtimolligi yuqori yoki past bolishidan qatiy nazar izohlarda yoritiladi.
+====
+Moliyaviy hisobotlarda joriy aktivlar tarkibida aks ettiriladi.
+====
+#Moliyaviy hisobotlarda aks ettirilmaydi, biroq sodir bolish ehtimolligi yuqori bolsa izohlarda yoritiladi. 
+====
+Moliyaviy hisobotlarda aks ettirilmaydi, biroq sodir bolish ehtimolligi yuqori bolsa izohlarda yoritiladi.
+
++++++
+
+Joriy yilda sodir bolgan soliqqa tortiladigan vaqtinchalik farq natijasida quyidagilardan qaysi biri moliyaviy hisobotlarda aks ettirilishi kerak:
+====
+Kechiktirilgan soliq aktivi
+====
+#Kechiktirilgan soliq majburiyati 
+====
+Joriy soliq majburiyati
+====
+Soliqqa tortiladigan vaqtinchalik farq moliyaviy hisobtlarda aks ettirilmaydi.
+
++++++
+
+Moliyaviy holat boyicha hisobotning qaysi bolimida kechiktirilgan soliq majburiyati aks ettiriladi
+====
+#Uzoq muddatli majburiyatlar bolimida aks ettiriladi. 
+====
+Uzoq muddatli majburiyatlar bolimida, joriy qismini esa joriy majburiyatlar bolimida alohida aks ettiriladi.
+====
+Joriy majburiyatlar bolimida aks ettiriladi
+====
+Joriy soliq majburiyati tarkibida aks ettiriladi
+
++++++
+
+Joriy yilda sodir bolgan chegiriladigan vaqtinchalik farq natijasida quyidagilardan qaysi biri moliyaviy hisobotlarda aks ettirilishi kerak:
+====
+#Kechiktirilgan soliq aktivi 
+====
+Kechiktirilgan soliq majburiyati 
+====
+Joriy soliq majburiyati
+====
+Chegiriladigan vaqtinchalik farq moliyaviy hisobtlarda aks ettirilmaydi.
+
++++++
+
+Aktivning balans qiymati aktivning soliq bazasidan yuqori bolsa, quyidagilardan qaysi biri sodir boladi va bu moliyaviy holat togrisidagi hisobotda qanday aks ettirilishi kerak
+====
+Chegiriladigan vaqtinchalik farq. Moliyaviy holat togrisidagi hisobotda kechiktirilgan soliq majburiyati aks ettiriladi.
+====
+#Soliqqa tortiladigan vaqtinchalik farq. Moliyaviy holat togrisidagi hisobotda kechiktirilgan soliq majburiyati aks ettiriladi.
+====
+Chegiriladigan vaqtinchalik farq. Moliyaviy holat togrisidagi hisobotda kechiktirilgan soliq aktivi aks ettiriladi. 
+====
+Soliqqa tortiladigan vaqtinchalik farq. Moliyaviy holat togrisidagi hisobotda kechiktirilgan soliq aktivi aks ettiriladi.
+
++++++
+
+Davr uchun kechiktirilgan soliq xarajati (yoki daromadi) qanday hisoblanadi
+====
+Davr uchun soliq bazasi x Foyda soligi stavkasi.
+====
+#Davr yakunida mavjud bolgan kechiktirilgan soliq qiymati – davr boshida mavjud bolgan kechiktirilgan soliq qiymati.
+====
+Davr uchun vaqtinchalik farq x  Foyda soligi stavkasi.
+====
+Togri javob yoq.
+
++++++
+
+Quyida keltirilganlardan moliyaviy vositalarni belgilang:
+====
+#Debitorlik qarzi, obligatsiya. 
+====
+Fyuchers, asosiy vositalar.
+====
+Tovar-moddiy zaxiralar, pul mablaglari
+====
+Aksiya, fyuchers, asosiy vositalar.
+
++++++
+
+Moliyaviy aktiv (qarz instrument)ning effektiv foiz stavkasi nimani ifodalaydi:
+====
+#Qarz beruvchining haqiqiy yillik foiz daromadini 
+====
+Bozor stavkasini
+====
+Qarzning shartnomada korsatilgan stavkasini
+====
+Qarz oluvchining haqiqiy yillik foiz xarajatini
+
++++++
+
+Moliyaviy vositalar uchun tranzaksiya xarajatlari boshlangich tannarxga kiritilmaydi. Balki ushbu xarajatlar foyda yoki zarar togrisidagi hisobotda aks ettiriladi. Yuqoridagi malumotlar quyidagilarning qaysi biriga tegishli
+====
+Amortizatsiya qilingan qiymat boyicha hisobga olinadigan moliyaviy majburiyatlar uchun.
+====
+#Foyda yoki zarar orqali haqqoniy qiymatda aks ettirilgan moliyaviy aktivlar uchun. 
+====
+Boshqa umumlashgan daromad orqali haqqoniy qiymat boyicha aks ettirilgan moliyaviy aktivlar uchun.
+====
+Amortizatsiya qilingan qiymat boyicha hisobga olinadigan moliyaviy aktivlar uchun.
+
++++++
+
+Quyidagilardan qaysi biri xususiy kapitalda aks ettiriladi:
+====
+Sotish uchun moljallangan uzoq muddatli aktivlar.
+====
+#Qoshilgan kapital.
+====
+Obligatsiya.
+====
+Bank krediti.
+
++++++
+
+BK kompaniyasi UK uyushgan tashkilotiga investitsiya kiritgan (ovoz beruvchi aksiyalar ulushi – 30 % ga teng). UK kompaniyasining BK oldida 400 ming dollar miqdorida kreditorlik qarzi bor. BK konsolidatsiyalashgan moliyaviy holat togrisidagi hisobotida debitorlik qarzi moddasidan: 
+====
+400 ming dollar miqdoridagi debitorlik qarzini chiqarib tashlashi kerak
+====
+120 ming dollar miqdoridagi debitorlik qarzini chiqarib tashlashi kerak
+====
+#Hech qanday summani chiqarib tashlamasligi kerak 
+====
+100 ming dollar miqdoridagi debitorlik qarzini chiqarib tashlashi kerak 
+
++++++
+
+Agar korxonaning sof aktivlarning qiymati korxonaning sotib olish bahosidan kam bolsa, u holda farq:
+====
+GOODWILL;
+====
+Haqqoniy qiymat;
+====
+#BADWILL 
+====
+Majburiyat.
+
++++++
+
+Agar korxonaning sof aktivlarning qiymati korxonaning sotib olish bahosidan oshsa, u holda farq:
+====
+#GOODWILL;
+====
+Haqqoniy qiymat;
+====
+BADWILL 
+====
+Majburiyat.
+
++++++
+
+Nazorat qilish yoki ahamiyatli tasir qilish imkonini bermaydigan investitsiyalar (ulushli instrument) konsolidatsiyalangan hisobotda qanday qiymatda korsatiladi
+====
+Amortizatsiyalangan qiymatda
+====
+#Haqqoniy qiymatda 
+====
+Sotib olish qiymatida
+====
+Tannarxida
+
++++++
+
+Sof aktivlarning haqqoniy qimati qanday hisoblanadi
+====
+Aktivlarning balans qiymatidan majburiyatlarning balans qiymati chegiriladi
+====
+#Aktivlarning haqqoniy qiymatidan majburiyatlarning haqqoniy qiymati chegiriladi 
+====
+Xususiy kapitalga teng boladi
+====
+Jami aktivlarga teng boladi
+
++++++
+
+Bosh kompaniya shoba kompaniyaning 100 % aksiyasini 250 mln dollarga sotib oldi; sotib olish sanasida sof aktivlarning balans qiymati – 150 mln dollar, sof aktivlarning haqqoniy qiymati 210 mln dollarga teng. 3-son MHXS (IFRS)ga muvofiq, sotib olish sanasida gudvill qanchaga teng
+====
+#40 mln dollar 
+====
+100 mln dollar
+====
+60 mln dollar
+====
+400 mln dollar
+
++++++
+
+Shoba korxonaning balansida bosh korxonadan sotib olingan tovar-moddiy zaxiralar qiymati hisobot  yili boshida 11 mln dollar, hisobot yili oxirida 15 mln dollar bolgan. Bosh korxona ushbu tovarlarni 25 % ustama bilan sotgan. Konsolidatsiyalangan moliyaviy holat togrisidagi hisobot uchun realizatsiya qilinmagan foyda summasini toping.
+====
+1 mln dollar
+====
+#3 mln dollar
+====
+3,75 mln dollar
+====
+2,75 mln dollar
+
++++++
+
+Shoba korxonaning balansida bosh korxonadan sotib olingan tovar-moddiy zaxiralar qiymati hisobot  yili boshida 11 mln dollar, hisobot yili oxirida 15 mln dollar bolgan. Bosh korxona ushbu tovarlarni 25 % ustama bilan sotgan. Konsolidatsiyalangan moliyaviy holat togrisidagi hisobot uchun realizatsiya qilinmagan foyda summasini toping.
+====
+#1 mln dollar
+====
+3 mln dollar 
+====
+3,75 mln dollar
+====
+2,75 mln dollar
