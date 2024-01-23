@@ -1,465 +1,624 @@
-
-Quyidagilardan qaysi biri korxona ustidan nazorat bor ekanligini aniqlaydi
+Moliyaviy hisobot tahlili – bu...
 ====
-#Korxonaning moliya – xojalik siyosatini boshqarish.
+#xojalik yurituvchi subyektning moliyaviy holatiga, moliya-xojalik faoliyati natijalariga va samaradorligiga baho berish hamda yaxshilash imkoniyatlarini korsatish maqsadida moliyaviy hisobot maʼlumotlari asosida otkaziladigan tahlildir
 ====
-Korxonaning 10% oddiy aksiyalariga egalik qilish.
+ xojlik yurituvchi subyektning statistik maʼlumotlari asosida otkaziladigan tahlildir
 ====
-Korxonaning 65% imtiyozli aksiyalariga egalik qilish
+ xojalik yurituvchi subyektning boshqaruv hisobi maʼlumotlariga asoslanib otkaziladigan tahlildir
 ====
-Korxonaning obligatsiyalariga egalik qilish.
-
-+++++
-
-Quyidagilardan qaysi biri uyushgan korxonaga kiritilgan investisiya hisoblanadi:
-====
-Agar investitsiya investorga nazorat huquqini bersa
-====
-Agar investitsiya investorga hech qanday huquq bermasa
-====
-Agar investitsiya investorga ovoz berish huquqin bersa
-====
-#Agar investitsiya investorga ahamiyatli tasir qilish imkonini bersa
+ Soliq hisobotlari asosida otkaziladigan tahlildir 
 
 +++++
 
-ABC MCHJ 20X4-yil 01-yanvarda $100 000 qiymatdagi 5% li obligatsiya chiqardi. Obligatsiyani chiqarish bilan bogliq xarajatlar $3 000 ni tashkil etdi. Obligatsiyaning balansga kirim qilinadigan qiymatini aniqlang. 
+Tahlilning eng asosiy prinsiplari qaysi javobda toliq aks ettirilgan? 
 ====
-$100 000
+ Ishonchlilik, betaraflilik, davriylik, taqqoslanuvchanlik, pulli baholash, hisobga olish, aniq baholash;
 ====
-#$97 000
+#Tizilmalilik, ishonchlilik, betaraflilik, davriylik, taqqoslanuvchanlik, pulli baholash, hisobga olish, mazmunning shakldan ustunligi, aniq baholash, uzluksizlik;
 ====
-$103 000
+ Tahlil dasturini tuzib olishlik, tizilmalilik, ishonchlilik, betaraflilik, davriylik, taqqoslanuvchanlik;
 ====
-$105 000
+ Tizilmalilik, ishonchlilik, betaraflilik, davriylik, taqqoslanuvchanlik, mazmunning shakldan ustunligi, aniq baholash, uzluksizlik.
 
 +++++
 
-Quyidagilardan qaysi biri GOODWILLga nisbatdan togri
+Omilli tahlil deb nimaga aytiladi?
 ====
-#Eskirish hisoblanmaydi.
+#Omilli tahlil deganda, natija korsatkichining ozgarishiga taʼsir qiluvchi turli omillarning taʼsirini iqtisodiy tahlilning anʼanaviy, matematik va boshqa usullari orqali aniqlash yollari tushuniladi 
 ====
-Xarajatlar tarkibida aks ettiriladi
+Omilli tahlil korxonalar faoliyatini moliyaviy yakuni natijasi daromadlar va xarajatlar, foyda hamda zararlar tahlilining zaruriy qismidir
 ====
-Eskirish xisoblanadi
+ Omilli tahlil natijasida mavjud ichki imkoniyatlar aniqlanadi va ulardan samarali foydalanish yollari ishlab chiqiladi
 ====
-Moliyaviy hisobotlarda aks ettirilmaydi
+ Omilli tahlil – natijaviy korsatkichga taʼsir etuvchi ijobiy birliklarni va hisob-kitob qilish mumkin bolgan salbiy birliklarda aniqlash usulidir
 
 +++++
 
-Quyidagilardan qaysi biri BADWILLga nisbatdan togri
+Tahlilda natija va unga taʼsir korsatuvchi omillar ortasidagi ozaro bogliqlikni organishda qanday matematik modellar qollanilib kelinmoqda?
 ====
-BADWILL kelajakdagi xarajatlar bilan bogliq boladi.
+ Umumiy va maxsus modellar
 ====
-Uzoq muddatli aktivlar tarkibida aks ettiriladi.
+#Additiv, multiplikativ va kasrli modellar
 ====
-#Foyda yoki zararlar togrisidagi hisobotda aks ettiriladi. 
+Umumiy va yordamchi modellar
 ====
-Hisobotlarda aks ettirilmaydi.
-
-+++++
-SIFAT MCHJ uch xil turdagi mahsulot ishlab chiqaradi. Quyida yil oxirida mavjud bolgan malumotlar keltirilgan: V mahsulot tannarxi 120 000 som, sof sotish qiymati (haqqoniy qiymat-sotish xarajatlari) 115 000 som, miqdori 150 birlik; M mahsulot tannarxi 85 000 som, sof sotish qiymati (haqqoniy qiymat-sotish xarajatlari) 105 000 som, miqdori 280 birlik; Q mahsulot tannarxi 175 000 som, sof sotish qiymati (haqqoniy qiymat-sotish xarajatlari) 165 000 som, miqdori 90 birlik. Tovar – moddiy zaxiralarning yakuniy qoldiq qiymatini hisoblang:
-====
-#55 900 000 som 
-====
-63 150 000 som
-====
-61 500 000 som
-====
-57 550 000 som
+ Umumlashgan, additiv va qisman yordamchi modellar
 
 +++++
 
-2-sonli MHXS (IAS) ga asosan tayyor mahsulotlar tannarxiga kiruvchi xarajatlarni aniqlang:
+Additiv model qaysi holatda tahlilda qollaniladi?
 ====
-Ishlab chiqarish xodimining ish haqi, sotib olish jarayonidagi transport xarajatlari, sotish jarayonidagi transport xarajatlari, xom – ashyo.
+Bu natija bilan omillar ortasidagi bogliqlik kopaytirish bilan ifodalanganda qollaniladi
 ====
-Xom – ashyo, mamuriy xarajatlar, tayyor mahsulotlarni saqlash xarajatlari, mashina va asbob – uskunalar amortizatsiyasi.
+Bu natija bilan omillar ortasidagi bogliqlik bolish bilan ifodalanganda qollaniladi
 ====
-#Mashina va asbob – uskunalar amortizatsiyasi, sotib olish jarayonidagi transport xarajatlari, xom – ashyo, ishlab chiqarish xodimining ish haqi. 
+#Bu model natija bilan omillar ortasidagi bogliqlik qoshuv bilan ifodalanganda qollaniladi
 ====
-Sotish jarayonidagi transport xarajatlari, xom – ashyo, ishlab chiqarish xodimining ish haqi, mashina va asbob – uskunalar amortizatsiyasi.
+Bu model natija bilan omillar ortasidagi bogliqlik ayirish bilan ifodalanganda qollaniladi
 
 +++++
 
-Quyida keltirilgan iboralardan 2-sonli MHXS (IAS)ga asosan togrisini belgilang:
+Buxgalteriya balansi likvidlik holati boyicha tarkiblanishini korsating?
 ====
-Tovar-moddiy zaxiralar tannarxi yoki sof sotish qiymatidan qaysi biri koproq bolsa, osha boyicha baholanishi lozim.
+Mutloq likvid balans, moliyaviy barqaror balans, nolikvid balans, nochorlik holatidagi balans
 ====
-Tovar-moddiy zaxiralar tannarxi yoki sof sotish qiymatidan qaysi biri kamroq bolishidan qatiy nazar, tannarx boyicha baholanishi lozim.
+Mutloq likvid balans, likvid balans, nolikvid balans, moliyaviy qaram balans
 ====
-#Tovar-moddiy zaxiralar tannarxi yoki sof sotish qiymatidan qaysi biri kamroq bolsa, osha boyicha baholanishi lozim. 
+#Mutloq likvid balans, likvid balans, nolikvid balans, nochorlik holatidagi balans
 ====
-Tovar-moddiy zaxiralar tannarxi yoki sof sotish qiymatidan qaysi biri koproq bolishidan qatiy nazar, sof sotish qiymati boyicha baholanishi lozim.
+Mutloq likvid balans, moliyaviy qaram balans, nolikvid balans, nochorlik holatidagi balans
 
 +++++
 
-ABC kompaniyasi QQS tolovchisi hisoblanadi. May oyi davomida ABC kompaniyasi DEF kompaniyasiga odatdagi sotish narxi $800 (QQSni oz ichiga olmagan) bolgan mahsulotlarni kreditga sotdi. DEF kompaniyasi kop miqdorda mahsulot sotib olgani uchun ushbu kompaniyaga odatdagi sotish narxiga nisbatan 6% lik chegirma berildi. Agar QQS stavkasi 12% bolsa, ABC kompaniyasi DEF kompaniyasiga jami qancha qiymatlik schyot-faktura taqdim etadi
+Qaysi javobda moliyaviy tahlilda qollaniladigan gorizantal tahlil usuliga togri taʼrif berilgan?
 ====
-$892.24
+#Moliyaviy hisobot korsatkichlarini mutloq va nisbiy farqlash orqali ozgarishlarini aniqlash usulidir
 ====
-$752
+Moliyaviy hisobot korsatkichlarini tarkibiy organish usulidir 
 ====
-#$842.24 
+Moliyaviy hisobot korsatkichlarini bazis (asos) korsatkichiga nisbatan dinamik organish usulidir
 ====
-$896
+Moliyaviy hisobot korsatkichlaridan foydalanib, moliyaviy koeffitsiyent korsatkichlarini aniqlash asosida baholash usulidir
 
 +++++
 
-Quyida keltirilgan iboralardan qaysi biri notogri
+Qaysi javobda moliyaviy tahlilda qollaniladigan vertikal tahlil usuliga togri taʼrif berilgan?
 ====
-#Meyoridan tashqari sarflangan hom-ashyo, mehnat va boshqa ishlab chiqarish xarajatlari summasi tayyor mahsulot tannarxiga qoshiladi. 
+Moliyaviy hisobot korsatkichlaridan foydalanib, moliyaviy koeffitsiyent korsatkichlarini aniqlash asosida baholash usulidir
 ====
-Saqlash xarajatlari, agar bu xarajatlar ishlab chiqarish jarayonining keyingi bosqichlari uchun talab etilmasa, davr xarajatlari sifatida tan olinadi.
+#Moliyaviy hisobot korsatkichlarini tarkibiy organish usulidir 
 ====
-Sotish xarajatlari tayyor mahsulot tannarxiga qoshilmaydi.
+Moliyaviy hisobot korsatkichlarini mutloq va nisbiy farqlash orqali ozgarishlarini aniqlash usulidir 
 ====
-Tovar-moddiy zaxiralarni xozirgi paytdagi joylashishi va holatiga keltirish bilan bogliq bolmagan mamuriy ustama xarajatlari davr xarajatlari sifatida tan olinadi.  
+Moliyaviy hisobot korsatkichlarini bazis (asos) korsatkichiga nisbatan dinamik organish usulidir
 
 +++++
 
-Biznes birlashuvi natijasida:
+Qaysi javobda moliyaviy tahlilda qollaniladigan trend tahlili usuliga togri taʼrif berilgan?
 ====
-#Xaridor sotib olingan kompaniya ustidan nazoratni qolga kiritadi.
+Moliyaviy hisobot korsatkichlarini mutloq va nisbiy farqlash orqali ozgarishlarini
+aniqlash usulidir 
 ====
-Sotib olingan kompaniya sotib oluvchi ustidan nazoratni qolga kiritadi.
+Moliyaviy hisobot korsatkichlarini tarkibiy organish usulidir 
 ====
-Xaridor sotib olingan kompaniyaning sherigi boladi.
+Moliyaviy hisobot korsatkichlaridan foydalanib, moliyaviy koeffitsiyent korsatkichlarini aniqlash asosida baholash usulidir
 ====
-Togri javob yoq.
+#Moliyaviy hisobot korsatkichlarini bazis (asos) korsatkichiga nisbatan dinamik organish usulidir
 
 +++++
 
-Quyidagilardan tiklash qiymatining tarifini aniqlang: 
+Qaysi javobda moliyaviy tahlilda qollaniladigan moliyaviy koeffitsiyentlar usuliga togri taʼrif berilgan?
 ====
-#Tiklash qiymati – aktivning sotish xarajatlari chegirilgandagi haqqoniy qiymati bilan uning foydalanishdagi qiymati ortasidagi yuqorirogi hisoblanadi. 
+Moliyaviy hisobot korsatkichlarini bazis (asos) korsatkichiga nisbatan dinamik organish usulidir 
 ====
-Tiklash qiymati – bu baholash sanasida bozor ishtirokchilari ortasidagi tartibli operatsiyada aktivni sotishda olinishi mumkin bolgan yoki majburiyatni otkazishda tolanishi mumkin bolgan narxdir. 
+#Moliyaviy hisobot korsatkichlaridan foydalanib, moliyaviy koeffitsiyent korsatkichlarini aniqlash asosida baholash usulidir
 ====
-Aktivni hisobdan chiqarilishiga bevosita tegishli bolgan qoshimcha xarajatlar tiklash qiymati hisoblanadi.
+Moliyaviy hisobot korsatkichlarini tarkibiy organish usulidir 
 ====
-Tiklash qiymati – aktivdan uzluksiz foydalanishdan va uning foydalanish muddati oxirida uning hisobdan chiqarilishidan yuzaga kelishi kutilgan va baholangan kelgusi pul oqimlarining keltirilgan (diskontlangan) qiymatidir.
+Moliyaviy hisobot korsatkichlarini mutloq va nisbiy farqlash orqali ozgarishlarini aniqlash usulidir
 
 +++++
 
-Uzoq muddatli aktivni sotish uchun moljallangan sifatida tasniflash uchun, aktiv quyidagi qaysi talablarga javob berishi kerak
+Korxonaning tolov qobiliyatini baholashda qanday korsatkichlardan foydalaniladi?
 ====
-Ozining joriy holatida bevosita sotuv uchun mavjud bolishi.
+#Mutloq tolov qobiliyati koeffitsiyenti, oraliq tolov qobiliyati koeffitsiyenti, joriy tolov qobiliyati koeffitsiyenti
 ====
-Uning sotuvi yuqori ehtimolli bolishi.
+Moliyaviy barqarorlik koeffitsiyenti, moliyaviy mustahkamlik koeffitsiyenti, joriy tolov qobiliyati koeffitsiyenti
 ====
-Sotuv tasniflash sanasidan boshlab bir yil ichida amalga oshirilishi ehtimoli yuqori bolsa.
+Oz aylanma mablaglari bilan taʼminlanish koeffitsiyenti, moliyaviy mustahkamlik koeffitsiyenti, oraliq tolov qobiliyati koeffitsiyenti
 ====
-#Barcha javoblar togri.
+Oz va qarz mablaglarining ozaro nisbati koeffitsiyenti, Mutloq tolov qobiliyati koeffitsiyenti, Moliyaviy barqarorlik koeffitsiyenti
 
 +++++
 
-Kompaniya mamuriy binoni sotish boyicha qaror qabul qildi. Agar quyidagilardan qaysi biri malum bolsa, bino sotish uchun moljallangan uzoq muddatli aktiv sifatida tasniflanishi mumkinmi:
+Mutloq tolov qobiliyati koeffitsiyenti qanday aniqlanadi?
 ====
-#Xaridor topilishi bilanoq bino darhol boshatilishi imkoni bolsa. 
+Qisqa muddatli tolov majburiyatlarini jami pul mablaglariga bolish lozim
 ====
-Boshqaruv xodimlari uchun yangi binolar qurib bolingandan song, bino xaridorga otkazilsa.
+#Jami pul mablaglariga qisqa muddatli investitsiyalarni qoshib, qisqa muddatli tolov majburiyatlariga bolish kerak
 ====
-Bino sotish qiymatini oshirish maqsadida kapital tamirdan otishi kutilayotgan bolsa.
+Jami pul mablaglariga qisqa muddatli investitsiyalarni va debitorlik majburiyatlarini qoshib, qisqa muddatli tolov majburiyatlariga bolish kerak
 ====
-Binoning kelgusi 12 oy ichida sotilishi ehtimoli past bolsa.
+Qisqa muddatli tolov majburiyatlarini pul mablaglari va debitorlik majburiyatlari jamiga bolish lozim
 
 +++++
 
-Quyidagilardan qaysi biri sotish uchun moljallangan uzoq muddatli aktivning tarifi hisoblanmaydi:
+Moliyaviy mustaqillik koeffitsiyenti qanday aniqlanadi?
 ====
-Kelgusi 12 oy ichida sotilishi rejalashtirilgan uzoq muddatli aktiv.
+#Oz mablaglari manbalari korsatkichigni balans jami korsatkichiga bolish orqali
 ====
-Balans qiymati asosan sotuv operatsiyasi orqali qoplanadigan uzoq muddatli aktiv.
+Balans jami korsatkichini oz mablaglari manbalari korsatkichiga bolish orqali
 ====
-#Balans qiymati asosan uzluksiz foydalanish orqali qoplanadigan uzoq muddatli aktiv. 
+Majburiyatlarni balans jami korsatkichiga bolish orqali
 ====
-Ozining joriy holatida bevosita sotish uchun mavjud bolgan uzoq muddatli aktiv.
+Balans jami korsatkichini jami majburiyatlarga bolish orqali
 
 +++++
 
-Quyidagilardan qaysi biri biznes birlashuviga togri kelmaydi
+Aylanma mablaglarning aylanish koeffitsiyenti qanday aniqlanadi?
 ====
-Boshqa korxonaning xususiy kapitalini sotib olish.
+#Mahsulot (ish, xizmat)lar sotishdan sof tushum korsatkichini aylanma mablaglar ortacha yillik qiymatiga bolish orqali
 ====
-Boshqa korxonaning jami sof aktivlarini sotib olish.
+Aylanma mablaglar ortacha yillik qiymati korsatkichini mahsulot (ish, xizmat)lar sotishdan sof tushum korsatkichiga bolish orqali
 ====
-Boshqa korxonaning sof aktivlarini qisman sotib olish.
+Yalpi foyda korsatkichini aylanma mablaglar ortacha yillik qiymati korsatkichiga bolish orqali
 ====
-#Likvidatsiya bolayotgan korxonaning aktivlarini sotib olish.
+Aylanma mablaglar ortacha yillik qiymati korsatkichini yalpi foyda korsatkichiga bolish bilan
 
 +++++
 
-Sotish uchun moljallangan sifatida tansiflangan uzoq muddatli aktiv qaysi qiymatda baholash lozim
+Moliyaviy qaramlik koeffitsiyenti qanday aniqlanadi?
 ====
-Balans qiymati bilan taqsimlash xarajatlari chegirilgandagi haqqoniy qiymati ortasidagi kamrogida baholash lozim.
+#Balans jami summasini oz mablaglari manbasi jami summasiga bolish orqali
 ====
-Sof sotish qiymatida baholash lozim.
+Oz mablaglari manbasi summasini balans jami summasiga bolish orqali
 ====
-Aktivning sotish xarajatlari chegirilgandagi haqqoniy qiymati bilan uning foydalanishdagi qiymati ortasidagi yuqorirogida baholash lozim.
+Majburiyatlar jami summasini balans jami summasiga bolish orqali
 ====
-#Balans qiymati bilan sotish xarajatlari chegirilgandagi haqqoniy qiymati ortasidagi kamrogida baholash lozim. 
+Balans jami summasini uzoq muddatli aktivlar summasiga bolish orqali
 
 +++++
 
-37-sonli MHXS (IAS) Baholangan majburiyatlar, shartli majburiyatlar va shartli aktivlarga asosan, quyida keltirilgan malumotlardan qaysi biri togri 1. Shartli aktiv mavjudligi izohlarda yoritilishi kerak, agar korxona tomonidan iqtisodiy naf olinishi ehtimoli yuqori deb baholansa. 2. Agar iqtisodiy nafning chiqib ketish ehtimoli yuqori deb baholansa, shartli majburiyat izohlarda yoritilishi kerak. 3. Agar iqtisodiy nafning chiqib ketish ehtimoli yuqori emas deb baholansa, shartli majburiyatni izohlarda yoritib berilishi talab etilmaydi. 4. Shartli aktiv va shartli majburiyatning sodir bolish ehtimoli 4% deb baholansa, izohlarda hech biri boyicha yoritib berilishlar talab etilmaydi.
+Buxgalteriya balansi (1-shakl)ga kora asosiy vositalarning qoldiq qiymati qanday aniqlanadi?
 ====
-#1 va 4
+#Asosiy vositalarning boshlangich qiymatidan (010-satr) eskirish summasini (011-satr) ayirish orqali
 ====
-2 va 3
+Asosiy vositalarning boshlangich qiymatiga (010-satr) eskirish summasini (011-satr) qoshish orqali
 ====
-2,3 va 4
+Asosiy vositalarning boshlangich qiymatini (010-satr) eskirish summasiga (011-satr) bolish orqali
 ====
-1,2 va 4
+Asosiy vositalarning boshlangich qiymatini (010-satr) eskirish summasiga (011-satr) kopaytirish orqali
 
 +++++
 
-SAHOVAT MCHJ korxonasining sobiq direktori noxaq ishdan chetlatilganligi sababli, korxonaga qarshi davo ishi ochildi. Korxonaning yuridik bolimi sobiq direktorning davosi muvaffaqiyatli yakunlanish ehtimoli past deb baholadi. Yuridik bolim quyidagi sodir bolishi mumkin bolgan majburiyatlarni baholadi: Yuridik xarajatlar (davo muvaffaqiyatli bolishi yoki bolmasligidan qatiy nazar) – $5 000. Agar sobiq direktorning davo arizasi muvaffaqiyatli yakunlansa kompensatsiya tolovi – $50 000. 37-sonli MHXS Baholangan majburiyatlar, shartli majburiyatlar va shartli aktivlarga asosan, yuqorida keltirilgan malumotlar SAHOVAT MCHJ korxonasining moliyaviy hisobotlarida qanday aks ettirilishi kerak:
+Kreditorlik qarzlarining aylanish koeffitsiyenti qanday aniqlanadi?
 ====
-Baholangan majburiyat – $55 000.
+Mahsulot (ish, xizmat)larni sotishdan olingan sof tushum / kreditorlik qarzlari
 ====
-Qiymati $55 000 bolgan shartli majburiyat izohlarda yoritiladi.
+#Sotilgan mahsulot (ish, xizmat)larning ishlab chiqarish tannarxi / jami kreditorlik qarzlari
 ====
-Baholangan majburiyat – $50 000 va shartli majburiyat – $5 000.
+Mahsulot (ish, xizmat)larni sotishdan olingan sof tushum / jami debitorlik qarzlari
 ====
-#Baholangan majburiyat – $5 000 va shartli majburiyat – $50 000.
+Sotilgan mahsulot (ish, xizmat)larning ishlab chiqarish tannarxi / jami debitorlik qarzlari
 
 +++++
 
-37-sonli MHXS (IAS) Baholangan majburiyatlar, shartli majburiyatlar va shartli aktivlarga asosan quyidagi qaysi holatlarga nisbatdan rezerv yaratilmaydi
+Debitorlik qarzlarining aylanish koeffitsiyenti qanday aniqlanadi?
 ====
-Belgilangan rejaga muvofiq kompaniyani kelajakda qayta qurish xarajatlari.
+Sotilgan mahsulot (ish, xizmat)larning ishlab chiqarish tannarxi / jami kreditorlik qarzlari
 ====
-Ogirlik yuklaydigan shartnoma bilan bogliq xarajatlar.
+Mahsulot (ish, xizmat)larni sotishdan olingan sof tushum / kreditorlik qarzlari
 ====
-#Ishlashni davom ettirayotgan xodimlarni qayta tayyorlash yoki boshqa joyga kochirish xarajatlari.
+Sotilgan mahsulot (ish, xizmat)larning ishlab chiqarish tannarxi / jami debitorlik qarzlari
 ====
-Ishlab chiqarish uskunalarini kelajakda demontaj qilish bilan bogliq xarajatlar.
+#Mahsulot (ish, xizmat)larni sotishdan olingan sof tushum / jami debitorlik qarzlari
 
 +++++
 
-Kompaniya xaridorlaridan biri uni mol yetkazib berish shartnomasi shartlarini buzganligi uchun sudga berdi. Kompaniya yuristlari mijozning davosi muvaffaqiyatli bolishiga ishonishadi va davo boyicha iqtisodiy nafning chiqib ketishini quyidagicha baholaydilar: 10% ehtimollik bilan $40 000, 30% ehtimollik bilan - $30 000, 60% ehtimollik bilan - $25 000. 37-sonli MHXS (IAS) 37 Baholangan majburiyatlar, shartli majburiyatlar va shartli aktivlarga asosan ushbu holat boyicha baholangan majburiyatning balans qiymatini aniqlang:
+Debitorlik qarzlarining aylanish davri qanday aniqlanadi?
 ====
-$40 000
+#Jami debitorlik qarzlarini × 360 / Mahsulot (ish, xizmat)larni sotishdan olingan sof tushum
 ====
-#$25 000 
+Jami debitorlik qarzlari × 360 / Sotilgan mahsulot (ish,xizmat)larning ishlab chiqarish tannarxi
 ====
-$55 000
+Sotilgan mahsulot (ish, xizmat)larning ishlab chiqarish tannarxi / majburiyatlar
 ====
-$30 000
+Mahsulot (ish, xizmat)larni sotishdan olingan sof tushum × 360 / Jami debitorlik qarzlari
 
 +++++
 
-Quyidagilardan qaysi biri shartli aktivlarning moliyaviy hisobotlarda aks ettirilishi boyicha togri
+Kreditorlik qarzlarining aylanish davri qanay aniqlanadi?
 ====
-Moliyaviy hisobotlarda aks ettirilmaydi, biroq sodir bolish ehtimolligi yuqori yoki past bolishidan qatiy nazar izohlarda yoritiladi.
+Jami debitorlik qarzlarini × 360 / Mahsulot (ish, xizmat)larni sotishdan olingan sof tushum
 ====
-Moliyaviy hisobotlarda joriy aktivlar tarkibida aks ettiriladi.
+#Jami kreditorlik qarzlari × 360 / Sotilgan mahsulot (ish,xizmat)larning ishlab chiqarish tannarxi
 ====
-#Moliyaviy hisobotlarda aks ettirilmaydi, biroq sodir bolish ehtimolligi yuqori bolsa izohlarda yoritiladi. 
+Sotilgan mahsulot (ish, xizmat)larning ishlab chiqarish tannarxi / majburiyatlar
 ====
-Moliyaviy hisobotlarda aks ettirilmaydi, biroq sodir bolish ehtimolligi yuqori bolsa izohlarda yoritiladi.
+Sotilgan mahsulot (ish, xizmat)larning ishlab chiqarish tannarxi × 360 / Jami kreditorlik qarzlari
 
 +++++
 
-Joriy yilda sodir bolgan soliqqa tortiladigan vaqtinchalik farq natijasida quyidagilardan qaysi biri moliyaviy hisobotlarda aks ettirilishi kerak:
+Pul mablaglari deganda nimani tushunasiz?
 ====
-Kechiktirilgan soliq aktivi
+#Pul mablaglari – bu kassadagi naqd pul va talab qilib olinadigan depozitlar, shuningdek, bankning hisob-kitob, valyuta va boshqa schyotlaridagi mablaglardir 
 ====
-#Kechiktirilgan soliq majburiyati 
+Pul mablaglari – bu tez va oson almashtiriladigan hamda qiymatidagi ozgarishlar tufayli biroz xatari bolgan qisqa muddatli, yuqori likvidli investitsiyalar (moliyaviy qoyilmalar)
 ====
-Joriy soliq majburiyati
+Pul mablaglari – bu bankdagi hisob-kitob, valyuta va boshqa schyotlaridagi mablaglardir 
 ====
-Soliqqa tortiladigan vaqtinchalik farq moliyaviy hisobtlarda aks ettirilmaydi.
+Pul mablaglari – bu tez va oson almashtiriladigan yuqori likvidli investitsiyalar (moliyaviy qoyilmalar) va bankdagi hisob-kitob schyotidagi mablaglardir
 
 +++++
 
-Moliyaviy holat boyicha hisobotning qaysi bolimida kechiktirilgan soliq majburiyati aks ettiriladi
+Xojalik yurituvchi subyektlarning pul mablaglari oqimi qanday jarayonlarda sodir boladi?
 ====
-#Uzoq muddatli majburiyatlar bolimida aks ettiriladi. 
+Operatsion faoliyat, investitsiya faoliyati, soliqqa tortish va tashqi iqtisodiy faoliyatlarda
 ====
-Uzoq muddatli majburiyatlar bolimida, joriy qismini esa joriy majburiyatlar bolimida alohida aks ettiriladi.
+#Operatsion faoliyat, investitsiya faoliyati, moliyaviy faoliyat va soliqqa tortish
 ====
-Joriy majburiyatlar bolimida aks ettiriladi
+Operatsion faoliyat, investitsiya faoliyati, soliqqa tortish va valyuta mablaglar harakatida
 ====
-Joriy soliq majburiyati tarkibida aks ettiriladi
+Operatsion faoliyat, investitsiya faoliyati, soliqqa tortish va ijara majburiyatlarida
 
 +++++
 
-Joriy yilda sodir bolgan chegiriladigan vaqtinchalik farq natijasida quyidagilardan qaysi biri moliyaviy hisobotlarda aks ettirilishi kerak:
+Qanday korsatkichlar pul mablaglari oqimini ifodalovchi asosiy korsatkichlar hisoblanadi?
 ====
-#Kechiktirilgan soliq aktivi 
+#Pul mablaglarining kelib tushishi va sarflanishi summasi, kelib tushgan va sarflangan pul mablaglarining tuzilmasi, kelib tushgan va sarflangan pul mablaglarining ozaro saldosi, kelib tushgan va sarflangan pul mablaglari nisbatining koeffitsiyenti (pul mablaglari oqimi koeffitsiyenti)
 ====
-Kechiktirilgan soliq majburiyati 
+Pul mablaglarining kelib tushishi va sarflanishi summasi, kelib tushgan va sarflangan pul mablaglarining tuzilmasi, kelib tushgan va sarflangan pul mablaglarining ozaro saldosi
 ====
-Joriy soliq majburiyati
+Asosiy faoliyatda pul mablaglarining kirimi va chiqimi, investitsiya faoliyatidagi sof pul oqimlarining kirimi va chiqimi, moliyaviy faoliyatdagi pul mablaglarining sof kirimi va chiqimi, soliqqa tortish (tolangan soliqlar)
 ====
-Chegiriladigan vaqtinchalik farq moliyaviy hisobtlarda aks ettirilmaydi.
+Asosiy faoliyatda pul mablaglarining kirimi va chiqimi, investitsiya faoliyatidagi sof pul oqimlarining kirimi va chiqimi, moliyaviy faoliyatdagi pul mablaglarining sof kirimi va chiqimi, kelib tushgan va sarflangan pul mablaglari nisbatining koeffitsiyenti (pul mablaglari oqimi koeffitsiyenti)
 
 +++++
 
-Aktivning balans qiymati aktivning soliq bazasidan yuqori bolsa, quyidagilardan qaysi biri sodir boladi va bu moliyaviy holat togrisidagi hisobotda qanday aks ettirilishi kerak
+Pul mablaglari tarkibiga qanday mablaglar kiradi?
 ====
-Chegiriladigan vaqtinchalik farq. Moliyaviy holat togrisidagi hisobotda kechiktirilgan soliq majburiyati aks ettiriladi.
+#Kassadagi pul mablaglari, hisob-kitob schyotidagi pul mablaglari, xorijiy valyutadagi pul mablaglari hamda boshqa pul mablaglari va ekvivalentlar
 ====
-#Soliqqa tortiladigan vaqtinchalik farq. Moliyaviy holat togrisidagi hisobotda kechiktirilgan soliq majburiyati aks ettiriladi.
+Kassadagi pul mablaglari, hisob-kitob schyotidagi pul mablaglari, xorijiy valyutadagi pul mablaglari, qisqa muddatli investitsiyalar hamda boshqa pul mablaglari va ekvivalentlar
 ====
-Chegiriladigan vaqtinchalik farq. Moliyaviy holat togrisidagi hisobotda kechiktirilgan soliq aktivi aks ettiriladi. 
+Kassadagi pul mablaglari, hisob-kitob schyotidagi pul mablaglari, xorijiy valyutadagi pul mablaglari hamda boshqa joriy aktivlar
 ====
-Soliqqa tortiladigan vaqtinchalik farq. Moliyaviy holat togrisidagi hisobotda kechiktirilgan soliq aktivi aks ettiriladi.
+Kassadagi pul mablaglari, hisob-kitob schyotidagi pul mablaglari, qisqa muddatli investitsiyalar va boshqa joriy aktivlar
 
 +++++
 
-Davr uchun kechiktirilgan soliq xarajati (yoki daromadi) qanday hisoblanadi
+Xususiy kapital tarkibi berilgan togri javobni korsating?
 ====
-Davr uchun soliq bazasi x Foyda soligi stavkasi.
+#Ustav kapitali, qoshilgan kapital, rezerv kapitali va taqsimlanmagan foyda (qoplanmagan zarar)
 ====
-#Davr yakunida mavjud bolgan kechiktirilgan soliq qiymati – davr boshida mavjud bolgan kechiktirilgan soliq qiymati.
+Ustav kapitali, qoshilgan kapital, rezerv kapitali, taqsimlanmagan foyda (qoplanmagan zarar), sotib olingan oz aksiyalari va boshqa xususiy kapital elementlari
 ====
-Davr uchun vaqtinchalik farq x  Foyda soligi stavkasi.
+Ustav kapitali, qoshilgan kapital, rezevr kapitali, sotib olingan oz aksiyalari, taqsimlanmagan foyda (qoplanmagan zarar), maqsadli tushumlar hamda bolgusi xarajatlar va tolovlar zaxiralari
 ====
-Togri javob yoq.
+Ustav kapitali, qoshilgan kapital, rezevr kapitali, sotib olingan oz aksiyalari, taqsimlanmagan foyda (qoplanmagan zarar) va maqsadli tushumlar
 
 +++++
 
-Quyida keltirilganlardan moliyaviy vositalarni belgilang:
+Xususiy kapital rentabelligi qanday aniqlanadi?
 ====
-#Debitorlik qarzi, obligatsiya. 
+Yalpi foyda summasini 100 foizga kopaytirib, natijasini xususiy kapitalning ortacha yillik qiymatiga bolish lozim
 ====
-Fyuchers, asosiy vositalar.
+Mahsulot sotishdan olingan sof tushum summasini 100 foizga kopaytirib, natijasini xususiy kapitalning ortacha yillik qiymatiga bolish lozim
 ====
-Tovar-moddiy zaxiralar, pul mablaglari
+#Sof foyda summasini 100 foizga kopaytirib, natijasini xususiy kapitalning ortacha yillik qiymatiga bolish lozim
 ====
-Aksiya, fyuchers, asosiy vositalar.
+Xususiy kapitalning ortacha yillik qiymati 100 foizga kopaytirib, natijasini sof foyda summasiga bolish lozim
 
 +++++
 
-Moliyaviy aktiv (qarz instrument)ning effektiv foiz stavkasi nimani ifodalaydi:
+Xususiy kapital rentabelligi nimani ifodalaydi?
 ====
-#Qarz beruvchining haqiqiy yillik foiz daromadini 
+#Xususiy kapital rentabelligi bir yoki yuz somlik xususiy kapital hajmi hisobiga olingan sof foyda summasini ifodalaydi 
 ====
-Bozor stavkasini
+Xususiy kapital rentabelligi bir yoki yuz somlik xususiy kapital hajmi hisobiga olingan yalpi foyda summasini ifodalaydi
 ====
-Qarzning shartnomada korsatilgan stavkasini
+Xususiy kapital rentabelligi bir yoki yuz somlik xususiy kapital hajmi hisobiga olingan yalpi tushum summasini ifodalaydi
 ====
-Qarz oluvchining haqiqiy yillik foiz xarajatini
+Xususiy kapital rentabelligi bir yoki yuz somlik xususiy kapital hajmi hisobiga olingan sof tushum summasini ifodalaydi 
 
 +++++
 
-Moliyaviy vositalar uchun tranzaksiya xarajatlari boshlangich tannarxga kiritilmaydi. Balki ushbu xarajatlar foyda yoki zarar togrisidagi hisobotda aks ettiriladi. Yuqoridagi malumotlar quyidagilarning qaysi biriga tegishli
+Mahsulot (ish, xizmat)larni ishlab chiqarish va sotish xarajatlarining tarkibi hamda moliyaviy natijalarni shakllantirish tartibi togrisidagi Nizomga muvofiq moliyaviy natijalarning shakllanishi togri berilgan javobni korsating?
 ====
-Amortizatsiya qilingan qiymat boyicha hisobga olinadigan moliyaviy majburiyatlar uchun.
+Korxonaning oziga tegishli mablaglari, yalpi foyda, asosiy ishlab chiqarish faoliyatining foydasi (zarari), soliq tolangunga qadar bolgan foyda (zarar) va hisobot davrining sof foydasi (zarari);
 ====
-#Foyda yoki zarar orqali haqqoniy qiymatda aks ettirilgan moliyaviy aktivlar uchun. 
+Yalpi foyda, asosiy ishlab chiqarish faoliyatining foydasi (zarari), soliq tolangunga qadar bolgan foyda (zarar) va hisobot davrining sof foydasi (zarari);
 ====
-Boshqa umumlashgan daromad orqali haqqoniy qiymat boyicha aks ettirilgan moliyaviy aktivlar uchun.
+#Mahsulot (ish, xizmat)larni sotishdan olinadigan yalpi foyda (zarar), asosiy ishlab chiqarish faoliyatining foydasi (zarari), umumxojalik faoliyatining foydasi (zarari), soliq tolangunga qadar bolgan foyda (zarar) va hisobot davrining sof foydasi (zarari);
 ====
-Amortizatsiya qilingan qiymat boyicha hisobga olinadigan moliyaviy aktivlar uchun.
+Mahsulot (ish, xizmat)larni sotishdan olinadigan yalpi foyda (zarar), asosiy ishlab chiqarish faoliyatining foydasi (zarari), umumxojalik faoliyatining foydasi (zarari), hisobot davrining daromad va xarajatlari.
 
 +++++
 
-Quyidagilardan qaysi biri xususiy kapitalda aks ettiriladi:
+Mahsulot (ish, xizmat)larni ishlab chiqarish va sotish xarajatlarining tarkibi hamda moliyaviy natijalarni shakllantirish tartibi togrisidagi Nizomga muvofiq yalpi foyda (zarar) korsatkichi qanday aniqlanadi?
 ====
-Sotish uchun moljallangan uzoq muddatli aktivlar.
+#Mahsulot (ish, xizmat)larni sotishdan sof tushum (2-shakl, 010-satr) korsatkichidan sotilgan mahsulot (ish, xizmat)larning tannarxi (2-shakl, 020-satr) korsatkichini ayirish orqali;
 ====
-#Qoshilgan kapital.
+Mahsulot (ish, xizmat)larni sotishdan sof tushum (2-shakl, 010-satr) korsatkichidan davr xarajatlari (2-shakl, 040-satr) korsatkichini ayirish orqali;
 ====
-Obligatsiya.
+Mahsulot (ish, xizmat)larni sotishdan sof tushum (2-shakl, 010-satr) korsatkichiga asosiy faoliyatning boshqa daromadlari (2-shakl, 090-satr) korsatkichini qoshish orqali;
 ====
-Bank krediti.
+Mahsulot (ish, xizmat)larni sotishdan sof tushum (2-shakl, 010-satr) korsatkichidan foyda soligi (2-shakl, 250-satr) korsatkichini ayirish orqali.
 
 +++++
 
-BK kompaniyasi UK uyushgan tashkilotiga investitsiya kiritgan (ovoz beruvchi aksiyalar ulushi – 30 % ga teng). UK kompaniyasining BK oldida 400 ming dollar miqdorida kreditorlik qarzi bor. BK konsolidatsiyalashgan moliyaviy holat togrisidagi hisobotida debitorlik qarzi moddasidan: 
+Mahsulot (ish, xizmat)larni ishlab chiqarish va sotish xarajatlarining tarkibi hamda moliyaviy natijalarni shakllantirish tartibi togrisidagi Nizomga kora asosiy ishlab chiqarish faoliyatining foydasi (zarari) korsatkichi qanday aniqlanadi?
 ====
-400 ming dollar miqdoridagi debitorlik qarzini chiqarib tashlashi kerak
+Mahsulot (ish, xizmat)larni sotishdan sof tushum (2-shakl, 010-satr) korsatkichidan sotilgan mahsulot (ish, xizmat)larning tannarxi (2-shakl, 020-satr) korsatkichini ayirish orqali;
 ====
-120 ming dollar miqdoridagi debitorlik qarzini chiqarib tashlashi kerak
+Mahsulotlarni sotishdan olingan yalpi foyda (2-shakl, 030-satr) korsatkichidan davr xarajatlari bilan asosiy faoliyatning boshqa operatsion xarajatlarini ayirish va asosiy faoliyatning boshqa daromadlarini qoshish orqali;
 ====
-#Hech qanday summani chiqarib tashlamasligi kerak 
+#Mahsulotlarni sotishdan olingan yalpi foyda (2-shakl, 030-satr) korsatkichidan davr xarajatlari (2-shakl, 040-satr) korsatkichini ayirib, asosiy faoliyatning boshqa daromadlarini (2-shakl, 090-satr) qoshish orqali;
 ====
-100 ming dollar miqdoridagi debitorlik qarzini chiqarib tashlashi kerak 
+Mahsulot (ish, xizmat)larni sotishdan sof tushum (2-shakl, 010-satr) korsatkichidan foyda soligi (2-shakl, 250-satr) korsatkichini ayirish orqali.
 
 +++++
 
-Agar korxonaning sof aktivlarning qiymati korxonaning sotib olish bahosidan kam bolsa, u holda farq:
+Mahsulot (ish, xizmat)larni ishlab chiqarish va sotish xarajatlarining tarkibi hamda moliyaviy natijalarni shakllantirish tartibi togrisidagi Nizomga muvofiq umumxojalik faoliyatining foydasi qanday aniqlanadi?
 ====
-GOODWILL;
+Mahsulot (ish, xizmat)larni sotishdan sof tushum (2-shakl, 010-satr) korsatkichidan sotilgan mahsulot (ish, xizmat)larning tannarxi (2-shakl, 020-satr) korsatkichini ayirish orqali;
 ====
-Haqqoniy qiymat;
+Mahsulotlarni sotishdan olingan yalpi foyda (2-shakl, 030-satr) korsatkichidan davr xarajatlari bilan asosiy faoliyatning boshqa operatsion xarajatlarini ayirish va asosiy faoliyatning boshqa daromadlarini qoshish orqali;
 ====
-#BADWILL 
+Mahsulotlarni sotishdan olingan yalpi foyda (2-shakl, 030-satr) korsatkichidan davr xarajatlari (2-shakl, 040-satr) korsatkichini ayirib, asosiy faoliyatning boshqa daromadlarini (2-shakl, 090-satr) qoshish orqali;
 ====
-Majburiyat.
+#Asosiy faoliyatning foydasiga (2-shakl, 100-satr) moliyaviy faoliyatning daromadlarini (2-shakl, 110-satr) qoshib, moliyaviy faoliyat boyicha xarajatlarni (2-shakl, 170-satr) ayirib tashlash orqali.
 
 +++++
 
-Agar korxonaning sof aktivlarning qiymati korxonaning sotib olish bahosidan oshsa, u holda farq:
+Mahsulot (ish, xizmat)larni ishlab chiqarish va sotish xarajatlarining tarkibi hamda moliyaviy natijalarni shakllantirish tartibi togrisidagi Nizomga kora soliq tolangunga qadar foyda (zarar) qanday aniqlanadi?
 ====
-#GOODWILL;
+#Umumxojalik faoliyatining foydasiga (2-shakl, 220-satr) favqulodda yuzaga kelgan foydani qoshish va favqulodda yuzaga kelgan zararni chegirib tashlash orqali;
 ====
-Haqqoniy qiymat;
+Mahsulotlarni sotishdan olingan yalpi foyda (2-shakl, 030-satr) korsatkichidan davr xarajatlari bilan asosiy faoliyatning boshqa operatsion xarajatlarini ayirish va asosiy faoliyatning boshqa daromadlarini qoshish orqali;
 ====
-BADWILL 
+Mahsulotlarni sotishdan olingan yalpi foyda (2-shakl, 030-satr) korsatkichidan davr xarajatlari (2-shakl, 040-satr) korsatkichini ayirib, asosiy faoliyatning boshqa daromadlarini (2-shakl, 090-satr) qoshish orqali;
 ====
-Majburiyat.
+Asosiy faoliyatning foydasiga (2-shakl, 100-satr) moliyaviy faoliyatning daromadlarini (2-shakl, 110-satr) qoshib, moliyaviy faoliyat boyicha xarajatlarni (2-shakl, 170-satr) ayirib tashlash orqali.
 
 +++++
 
-Nazorat qilish yoki ahamiyatli tasir qilish imkonini bermaydigan investitsiyalar (ulushli instrument) konsolidatsiyalangan hisobotda qanday qiymatda korsatiladi
+Mahsulot (ish, xizmat)larni ishlab chiqarish va sotish xarajatlarining tarkibi hamda moliyaviy natijalarni shakllantirish tartibi togrisidagi Nizomga asosan hisobot davrining sof foydasi (zarari) qanday aniqlanadi?
 ====
-Amortizatsiyalangan qiymatda
+Umumxojalik faoliyatining foydasiga (2-shakl, 220-satr) favqulodda yuzaga kelgan foydani qoshish va favqulodda yuzaga kelgan zararni chegirib tashlash orqali;
 ====
-#Haqqoniy qiymatda 
+Mahsulotlarni sotishdan olingan yalpi foyda (2-shakl, 030-satr) korsatkichidan davr xarajatlari bilan asosiy faoliyatning boshqa operatsion xarajatlarini ayirish va asosiy faoliyatning boshqa daromadlarini qoshish orqali;
 ====
-Sotib olish qiymatida
+#Soliq tolangunga qadar foydadan (2-shakl, 240-satr) foyda soligini (2-shakl, 250-satr) hamda foydadan boshqa soliq va yigimlarni (2-shakl, 260-satr) chegirib tashlash orqali;
 ====
-Tannarxida
+Asosiy faoliyatning foydasiga (2-shakl, 100-satr) moliyaviy faoliyatning daromadlarini (2-shakl, 110-satr) qoshib, moliyaviy faoliyat boyicha xarajatlarni (2-shakl, 170-satr) ayirib tashlash orqali.
 
 +++++
 
-Sof aktivlarning haqqoniy qimati qanday hisoblanadi
+Mahsulot sotish rentabelligi qanday aniqlanadi?
 ====
-Aktivlarning balans qiymatidan majburiyatlarning balans qiymati chegiriladi
+#Sotishdan olingan yalpi foyda korsatkichini sotishdan olingan tushum summasiga bolish asosida aniqlanadi;
 ====
-#Aktivlarning haqqoniy qiymatidan majburiyatlarning haqqoniy qiymati chegiriladi 
+Hisobot davrining sof foydasini korxonaning jami mol-mulki summasiga bolish orqali;
 ====
-Xususiy kapitalga teng boladi
+Hisobot davrining sof foydasini asosiy vositalarning ortacha yillik qiymatiga bolish orqali;
 ====
-Jami aktivlarga teng boladi
+Hisobot davrining sof foydasini sotishdan olingan tushum summasiga bolish asosida aniqlanadi.
 
 +++++
 
-Bosh kompaniya shoba kompaniyaning 100 % aksiyasini 250 mln dollarga sotib oldi; sotib olish sanasida sof aktivlarning balans qiymati – 150 mln dollar, sof aktivlarning haqqoniy qiymati 210 mln dollarga teng. 3-son MHXS (IFRS)ga muvofiq, sotib olish sanasida gudvill qanchaga teng
+Asosiy vositalar rentabelligi qanday aniqlanadi?
 ====
-#40 mln dollar 
+Sotishdan olingan yalpi foyda korsatkichini sotishdan olingan tushum summasiga bolish asosida aniqlanadi;
 ====
-100 mln dollar
+Hisobot davrining sof foydasini korxonaning jami mol-mulki summasiga bolish orqali;
 ====
-60 mln dollar
+#Hisobot davrining sof foydasini asosiy vositalarning ortacha yillik qiymatiga bolish orqali;
 ====
-400 mln dollar
+Hisobot davrining sof foydasini asosiy vositalarning hisobot davri oxiriga bolgan qiymatiga bolish asosida aniqlanadi.
 
 +++++
 
-Shoba korxonaning balansida bosh korxonadan sotib olingan tovar-moddiy zaxiralar qiymati hisobot  yili boshida 11 mln dollar, hisobot yili oxirida 15 mln dollar bolgan. Bosh korxona ushbu tovarlarni 25 % ustama bilan sotgan. Konsolidatsiyalangan moliyaviy holat togrisidagi hisobot uchun realizatsiya qilinmagan foyda summasini toping.
+Mol-mulk rentabelligi qanday aniqlanadi?
 ====
-1 mln dollar
+Sotishdan olingan yalpi foyda korsatkichini sotishdan olingan tushum summasiga bolish asosida aniqlanadi;
 ====
-#3 mln dollar
+#Hisobot davrining sof foydasini korxonaning jami mol-mulki summasiga bolish orqali;
 ====
-3,75 mln dollar
+Hisobot davrining sof foydasini asosiy vositalarning ortacha yillik qiymatiga bolish orqali;
 ====
-2,75 mln dollar
+Korxona mulkining ortacha yillik qiymatini hisobot davrining sof foydasiga bolish orqali aniqlanadi.
 
 +++++
 
-Shoba korxonaning balansida bosh korxonadan sotib olingan tovar-moddiy zaxiralar qiymati hisobot  yili boshida 11 mln dollar, hisobot yili oxirida 15 mln dollar bolgan. Bosh korxona ushbu tovarlarni 25 % ustama bilan sotgan. Konsolidatsiyalangan moliyaviy holat togrisidagi hisobot uchun realizatsiya qilinmagan foyda summasini toping.
+Berilgan malumotlardan foydalanib, balansli boglanish usulini qollab korxona sof foydasini aniqlang:
+1. Mahsulot (ish, xizmat) lar sotishdan tushum	219650
+2. Sotilgan mahsulotlarning ishlab chiqarish tannarxi	151460
+3. Maʼmuriy xarajatlar	26000
+4. Boshqa operatsion xarajatlar	20000
+5. Olingan dividendlar	8700
+6. Tolangan foizlar	1200
+7. Soliqlar	8900
+8. Sof foyda	?
 ====
-#1 mln dollar
+#20790 ming som; 
 ====
-3 mln dollar 
+25271 ming som; 
 ====
-3,75 mln dollar
+22790 ming som; 
 ====
-2,75 mln dollar
+20270 ming som.
+
++++++
+
+Quyidagi jadval malumotlari asosida, hisobot yilidagi yalpi foyda summasining otgan yilga nisbatan ozgarishini aniqlang?
+Otgan yil: 1. Mahsulot sotishdan olingan sof tushum, ming som	529200	
+2. Sotilgan mahsulotlar tannarxi, ming som	280000	
+Hisobot yili: 1. Mahsulot sotishdan olingan sof tushum, ming som	550000
+2. Sotilgan mahsulotlar tannarxi, ming som 290000
+====
+-249200 ming som;
+====
++260000 ming som;
+====
+#+10800 ming som
+====
+-10800 ming som
+
++++++
+
+Yillik moliyaviy hisobot quyidagilarni oz ichiga oladi:
+====
+#Buxgalteriya balansi, Moliyaviy natijalar togrisidagi hisobot, Pul oqimlari haqidagi hisobot, Xususiy kapital togrisidagi hisobot, izohlar, hisob-kitoblar, tushuntirishlar
+====
+Buxgalteriya balansi, Moliyaviy natijalar togrisidagi hisobot, Asosiy vositalar harakati togrisidagi hisobot, Moliyaviy hisobotga berilgan izohlar, qoshimchalar va malumotlar
+====
+Buxgalteriya balansi, Debitorlik va kreditorlik qarzlari togrisidagi malumotnoma, Xojalik muomalalarini hisobga olish daftari, Xususiy kapital togrisidagi hisobot
+====
+Buxgalteriya balansi, Moliyaviy natijalar togrisidagi hisobot, Statistik hisobot shakli, izohlar, hisob-kitoblar va tushuntirishlar
+
++++++
+
+Qonunchilikda tolovga qobiliyatsizlik tushunchasi qanday belgilangan?
+====
+#tolovga qobiliyatsizlik - sud tomonidan etirof etilgan, qarzdorning pul majburiyatlari boyicha kreditorlar talablarini tola hajmda qanoatlantirishga va (yoki) soliqlar hamda yigimlar boyicha oz majburiyatlarini tola hajmda bajarishga qodir emasligi
+====
+tolovga qobiliyatsizlik - qarzdorning pul majburiyatlari boyicha kreditorlar talablarini tola hajmda qanoatlantirishga va (yoki) soliqlar hamda yigimlar boyicha oz majburiyatlarini tola hajmda bajarishga qodir emasligi
+====
+tolovga qobiliyatsizlik - qarzdorning pul majburiyatlari boyicha kreditorlar talablarini tola hajmda qanoatlantirishga qodir emasligi
+====
+tolovga qobiliyatsizlik - qarzdorning soliqlar hamda yigimlar boyicha oz majburiyatlarini tola hajmda bajarishga qodir emasligi
+
++++++
+
+Qonunchilikda bankrot tushunchasiga qanday tarif berilgan?
+====
+#bankrot — sudning qaroriga asosan tolovga qobiliyatsiz deb topilgan va oziga nisbatan tugatishga doir ish yuritish yoki mol-mulkini sotish tartib-taomili qollaniladigan qarzdor;
+====
+bankrot — qarzdorning pul majburiyatlari boyicha kreditorlar talablarini tola hajmda qanoatlantirishga va (yoki) soliqlar hamda yigimlar boyicha oz majburiyatlarini tola hajmda bajarishga qodir emasligi
+====
+bankrot — qarzdorning pul majburiyatlari boyicha kreditorlar talablarini tola hajmda qanoatlantirishga qodir emasligi
+====
+bankrot — qarzdorning soliqlar hamda yigimlar boyicha oz majburiyatlarini tola hajmda bajarishga qodir emasligi
+
++++++
+
+Korxonalar moliyaviy-iqtisodiy ahvoliga baho berishda oz aylanma mablaglari bilan taminlanganlik koeffitsiyenti qanday aniqlanadi?
+Korsatkichlar: Oak - oz aylanma mablaglari bilan taminlanganlik koeffitsiyenti;
+A1 — uzoq muddatli aktivlar (asosiy vositalar, nomoddiy aktivlar, kapital qoyilmalar va boshqalar);
+A2 — joriy (aylanma) aktivlar (ishlab chiqarish zaxiralari, tayyor mahsulot, pul mablaglari, debitorlik qarzlari va boshqalar);
+P1 — oz mablaglarining manbalari (ustav kapitali, zaxira kapitali, qoshimcha kapital, taqsimlanmagan foyda va boshqalar); 
+Uqk2 — uzoq muddatli aktivlarni shakllantirishga yonaltirilgan uzoq muddatli qarz va kreditlar.
+====
+#Oak = ((P1 + Uqk2) - A1) / A2
+====
+Oak = P1 + Uqk2 - A1 / A2
+====
+Oak = ((P1 + Uqk2) - A2 ) / A1
+====
+Oak = ((A1 + Uqk2) - P1) / A2
+
++++++
+
+Iqtisodiy holatiga kora korxonalar qanday guruhlarga bolinadi?
+====
+#a) iqtisodiy barqaror; b) iqtisodiy tavakkalchilik; v) iqtisodiy nochor:
+tolov qobiliyatini tiklash imkoniyatiga ega bolgan;
+tolov qobiliyatini tiklash imkoniyatiga ega bolmagan.
+====
+a) nobarqaror; b) iqtisodiy nochor; v) tolovga layoqatsiz.
+====
+a) iqtisodiy barqaror; b) tolovga layoqatli; v) tolovga layoqatsiz.
+====
+a) nobarqaror; b) tolovga layoqatsiz; v) tolovga layoqatli.
+
++++++
+
+Qonunchilikda qarzdor yuridik shaxsning tolovga qobiliyatsizligi togrisidagi ishni korib chiqishda qanday tartib-taomillar qollanilishi belgilangan?
+====
+#kuzatuv; sud sanatsiyasi; tashqi boshqaruv; tugatishga doir ish yuritish.
+====
+sudgacha sanatsiya qilish; qarzdorning pul majburiyatlari boyicha kreditorlar talablarini tola hajmda qanoatlantirish; qarzdorning soliqlar hamda yigimlar boyicha  majburiyatlarini tola hajmda bajarish.
+====
+sudgacha sanatsiya qilish; qarzdorni ixtiyoriy ravishda tugatish; qarzdorning faoliyatini tugatish.
+====
+qarzdorning pul majburiyatlari boyicha kreditorlar talablarini tola hajmda qanoatlantirish; qarzdorni ixtiyoriy ravishda tugatish; qarzdorning faoliyatini tugatish.
+
++++++
+
+Moliyaviy hisobot tahlilining axborot manbalari qaysi javobda togri korsatilgan?
+====
+#Moliyaviy hisobot maʼlumotlari hamda tanlab olingan maʼlumotlar 
+====
+Boshqaruv va moliyaviy hisob hamda statistik hisob maʼlumotlari
+====
+Joriy hisob, ichki hisob maʼlumotlari va yillik hisobot maʼlumotlari
+====
+Biznes reja maʼlumotlari hamda boshqaruv va moliyaviy hisob maʼlumotlari
+
++++++
+
+Qaysi manbalar hisobidan operatsion faoliyat boyicha pul mablaglari tushumi yuzaga keladi?
+====
+Sotilgan mahsulot (ish, xizmat)lar uchun xaridorlardan olingan pul tushumlari, Ortiqcha tolangan foyda soligi boyicha pul tushumlari, Ortiqcha tolangan majburiy tolovlar boyicha pul tushumlari 
+====
+Aksiyalarni chiqarishdan yoki xususiy kapital bilan bogliq bolgan boshqa instrumentlardan kelgan pul tushumlari, Uzoq va qisqa muddatli qarzlarning olinishi, Uzoq va qisqa muddatli kreditlarning olinishi va boshqa pul tushumlari
+====
+Asosiy vositalarni sotishdan olingan pul tushumlari, Nomoddiy aktivlarni sotishdan olingan pul tushumlari, Uzoq va qisqa muddatli investitsiyalarni sotishdan olingan tushumlar
+====
+#Sotilgan mahsulot (ish, xizmat)lar uchun xaridorlardan olingan pul tushumlari va operatsion faoliyatning boshqa pul tushumlari
+
++++++
+
+Qaysi manbalar hisobidan investitsiya faoliyati boyicha pul mablaglari tushumi yuzaga keladi?
+====
+Aksiyalarni chiqarishdan yoki xususiy kapital bilan bogliq bolgan boshqa instrumentlardan kelgan pul tushumlari, Uzoq va qisqa muddatli qarzlarning olinishi, Uzoq va qisqa muddatli kreditlarning olinishi va boshqa pul tushumlari
+====
+Sotilgan mahsulot (ish, xizmat)lar uchun xaridorlardan olingan pul tushumlari, Ortiqcha tolangan foyda soligi boyicha pul tushumlari, Ortiqcha tolangan majburiy tolovlar boyicha pul tushumlari
+====
+#Asosiy vositalarni sotishdan olingan pul tushumlari, Nomoddiy aktivlarni sotishdan olingan pul tushumlari, Uzoq va qisqa muddatli investitsiyalarni sotishdan olingan tushumlar va investitsiya faoliyatining boshqa pul tushumlari
+====
+Sotilgan mahsulot (ish, xizmat)lar uchun xaridorlardan olingan pul tushumlari va investitsiya faoliyatining boshqa pul tushumlari
+
++++++
+
+Qaysi manbalar hisobidan moliyaviy faoliyat boyicha pul mablaglari tushumi yuzaga keladi?
+====
+Sotilgan mahsulot (ish, xizmat)lar uchun xaridorlardan olingan pul tushumlari va moliyaviy faoliyatning boshqa pul tushumlari 
+====
+#Aksiyalarni chiqarishdan yoki xususiy kapital bilan bogliq bolgan boshqa instrumentlardan kelgan pul tushumlari, Uzoq va qisqa muddatli qarzlarning olinishi, Uzoq va qisqa muddatli kreditlarning olinishi va boshqa pul tushumlari va moliyaviy faoliyatning boshqa pul tushumlari
+====
+Sotilgan mahsulot (ish, xizmat)lar uchun xaridorlardan olingan pul tushumlari, Ortiqcha tolangan foyda soligi boyicha pul tushumlari, Ortiqcha tolangan majburiy tolovlar boyicha pul tushumlari
+====
+Asosiy vositalarni sotishdan olingan pul tushumlari, Nomoddiy aktivlarni sotishdan olingan pul tushumlari, Uzoq va qisqa muddatli investitsiyalarni sotishdan olingan tushumlar va moliyaviy faoliyatning boshqa pul tushumlari
+
++++++
+
+Iqtisodiy nochorlik (bankrotlik)ning iqtisodiy salohiyatga nisbatan baholanadigan korsatkichlar tizimiga qanday korsatkichlar kiradi?
+====
+#Joriy aktivlar bilan bogliq bolgan korsatkichlari; uzoq muddatli aktivlar bilan bogliq bolgan korsatkichlari.
+====
+Oz mablaglari manbasi bilan bogliq bolgan korsatkichlari; majburiyatlar bilan bogliq bolgan korsatkichlar.
+====
+Joriy aktivlar bilan bogliq bolgan korsatkichlari; majburiyatlar bilan bogliq bolgan korsatkichlar.
+====
+Oz mablaglari manbasi bilan bogliq bolgan korsatkichlari; uzoq muddatli aktivlar bilan bogliq bolgan korsatkichlari.
+
++++++
+
+Iqtisodiy nochorlik (bankrotlik)ning moliyaviy salohiyatga nisbatan baholanadigan korsatkichlar tizimiga qanday korsatkichlar kiradi?
+====
+Joriy aktivlar bilan bogliq bolgan korsatkichlari; uzoq muddatli aktivlar bilan bogliq bolgan korsatkichlari.
+====
+#Oz mablaglari manbasi bilan bogliq bolgan korsatkichlari; majburiyatlar bilan bogliq bolgan korsatkichlar.
+====
+Joriy aktivlar bilan bogliq bolgan korsatkichlari; majburiyatlar bilan bogliq bolgan korsatkichlar.
+====
+Oz mablaglari manbasi bilan bogliq bolgan korsatkichlari; uzoq muddatli aktivlar bilan bogliq bolgan korsatkichlari.
+
+
+
+
+
+
+

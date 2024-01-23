@@ -5,8 +5,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
-user_name = "440211100590"
-user_password = "S1234567U"
+user_name = "440231100018"
+user_password = "nilufar9080"
 
 start_time = datetime.now()
 
@@ -91,4 +91,4 @@ sleep(3600)
 
     # /html/body/div[1]/div/div/div/div[1]/div[26]/div[2]/p[1]/label/span[2] 25 A
 
-# !Diqqat ushbu belgilar: “ va ” va ' va " va ʻ va ? lar umuman kerak emas o'chirib tashlash kerak .txt dan  –
+# !Diqqat ushbu belgilar: “ va ” va ' va " va ʻ va  lar umuman kerak emas o'chirib tashlash kerak .txt dan  

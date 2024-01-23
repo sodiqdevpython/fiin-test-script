@@ -7,8 +7,8 @@ from time import sleep
 from datetime import datetime
 from selenium.webdriver.common.by import By
 
-user_name = ""
-user_password = ""
+user_name = "440231200037"
+user_password = "09021991Aa"
 
 start_time = datetime.now()
 
